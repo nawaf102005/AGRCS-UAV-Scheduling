@@ -1,0 +1,18 @@
+{
+  "exhaustive_max_gap": 0.0,
+  "adversarial": {
+    "error_rate": 0.1008,
+    "upper_bound": 0.100885,
+    "telescoping_gap": 2.2737367544323206e-13
+  },
+  "causal_interface": true,
+  "neural_training": {
+    "before": 1.6362313511088034,
+    "after": 7.332086295294475e-09
+  },
+  "ack_accounting": {
+    "failure_rate": 0.08428571428571428,
+    "bound": 0.1252857142857143,
+    "identity_gap": 2.1316282072803006e-14
+  }
+}

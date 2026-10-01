@@ -1,0 +1,56 @@
+[
+  {
+    "baseline": "A-GRCS",
+    "metric": "goodput",
+    "difference": 3.7061772641709467,
+    "ci95": 0.5828467588228372
+  },
+  {
+    "baseline": "A-GRCS",
+    "metric": "failure",
+    "difference": 0.07666666666666666,
+    "ci95": 0.0036614487067348515
+  },
+  {
+    "baseline": "A-GRCS",
+    "metric": "rf",
+    "difference": 0.05112750000000001,
+    "ci95": 0.026197525549009067
+  },
+  {
+    "baseline": "Frozen-GRCS",
+    "metric": "goodput",
+    "difference": -0.9274453558408104,
+    "ci95": 0.36216321707317745
+  },
+  {
+    "baseline": "Frozen-GRCS",
+    "metric": "failure",
+    "difference": -0.0398,
+    "ci95": 0.01827588212478828
+  },
+  {
+    "baseline": "Frozen-GRCS",
+    "metric": "rf",
+    "difference": -0.00441616666666666,
+    "ci95": 0.017706238438505037
+  },
+  {
+    "baseline": "DDQN-Match",
+    "metric": "goodput",
+    "difference": 1.1927845693027535,
+    "ci95": 0.9641211831158846
+  },
+  {
+    "baseline": "DDQN-Match",
+    "metric": "failure",
+    "difference": 0.011700000000000002,
+    "ci95": 0.03444394689842679
+  },
+  {
+    "baseline": "DDQN-Match",
+    "metric": "rf",
+    "difference": 0.034616333333333305,
+    "ci95": 0.02415411115463358
+  }
+]

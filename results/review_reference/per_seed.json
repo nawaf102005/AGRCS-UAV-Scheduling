@@ -1,0 +1,202 @@
+[
+  {
+    "case": "gaussian_reference",
+    "method": "A-GRCS-ACK",
+    "seed": 0,
+    "goodput": 50.52181163071294,
+    "failure": 0.08666666666666667,
+    "rf": 0.4754666666666667,
+    "queue": 25.901817884508855,
+    "idle": 0.0
+  },
+  {
+    "case": "gaussian_reference",
+    "method": "Frozen-GRCS",
+    "seed": 0,
+    "goodput": 52.35801078944178,
+    "failure": 0.13733333333333334,
+    "rf": 0.5060866666666667,
+    "queue": 24.484458383898872,
+    "idle": 0.0
+  },
+  {
+    "case": "gaussian_reference",
+    "method": "A-GRCS-ACK",
+    "seed": 1,
+    "goodput": 54.48053313451425,
+    "failure": 0.09633333333333334,
+    "rf": 0.531095,
+    "queue": 21.58605255266207,
+    "idle": 0.0
+  },
+  {
+    "case": "gaussian_reference",
+    "method": "Frozen-GRCS",
+    "seed": 1,
+    "goodput": 55.56492478921986,
+    "failure": 0.16766666666666666,
+    "rf": 0.5108916666666666,
+    "queue": 22.817339463321535,
+    "idle": 0.0
+  },
+  {
+    "case": "gaussian_reference",
+    "method": "A-GRCS-ACK",
+    "seed": 2,
+    "goodput": 56.328736058411764,
+    "failure": 0.08933333333333333,
+    "rf": 0.5152033333333333,
+    "queue": 24.137088571700296,
+    "idle": 0.0
+  },
+  {
+    "case": "gaussian_reference",
+    "method": "Frozen-GRCS",
+    "seed": 2,
+    "goodput": 56.33394342091451,
+    "failure": 0.11033333333333334,
+    "rf": 0.502505,
+    "queue": 26.1851201113242,
+    "idle": 0.0
+  },
+  {
+    "case": "gaussian_reference",
+    "method": "A-GRCS-ACK",
+    "seed": 3,
+    "goodput": 54.01288823259621,
+    "failure": 0.09766666666666667,
+    "rf": 0.5238666666666666,
+    "queue": 19.596295898134255,
+    "idle": 0.0
+  },
+  {
+    "case": "gaussian_reference",
+    "method": "Frozen-GRCS",
+    "seed": 3,
+    "goodput": 54.98084734291601,
+    "failure": 0.15366666666666667,
+    "rf": 0.5083183333333333,
+    "queue": 24.065513333639817,
+    "idle": 0.0
+  },
+  {
+    "case": "gaussian_reference",
+    "method": "A-GRCS-ACK",
+    "seed": 4,
+    "goodput": 54.40070646160213,
+    "failure": 0.09,
+    "rf": 0.54043,
+    "queue": 17.517457410096377,
+    "idle": 0.0
+  },
+  {
+    "case": "gaussian_reference",
+    "method": "Frozen-GRCS",
+    "seed": 4,
+    "goodput": 55.447616720891695,
+    "failure": 0.14566666666666667,
+    "rf": 0.5523483333333333,
+    "queue": 19.775199909679834,
+    "idle": 0.0
+  },
+  {
+    "case": "gaussian_reference",
+    "method": "A-GRCS-ACK",
+    "seed": 5,
+    "goodput": 53.38327775911692,
+    "failure": 0.08833333333333333,
+    "rf": 0.5362516666666667,
+    "queue": 37.587874661318665,
+    "idle": 0.0
+  },
+  {
+    "case": "gaussian_reference",
+    "method": "Frozen-GRCS",
+    "seed": 5,
+    "goodput": 53.96158535423516,
+    "failure": 0.08633333333333333,
+    "rf": 0.49928999999999996,
+    "queue": 46.366346080460495,
+    "idle": 0.0
+  },
+  {
+    "case": "gaussian_reference",
+    "method": "A-GRCS-ACK",
+    "seed": 6,
+    "goodput": 54.81340565152288,
+    "failure": 0.09133333333333334,
+    "rf": 0.49857333333333337,
+    "queue": 23.601091456748197,
+    "idle": 0.0
+  },
+  {
+    "case": "gaussian_reference",
+    "method": "Frozen-GRCS",
+    "seed": 6,
+    "goodput": 55.98698570816255,
+    "failure": 0.13866666666666666,
+    "rf": 0.5134016666666666,
+    "queue": 27.205225835410467,
+    "idle": 0.0
+  },
+  {
+    "case": "gaussian_reference",
+    "method": "A-GRCS-ACK",
+    "seed": 7,
+    "goodput": 53.54052009466646,
+    "failure": 0.08833333333333333,
+    "rf": 0.48351833333333333,
+    "queue": 38.23983354148921,
+    "idle": 0.0
+  },
+  {
+    "case": "gaussian_reference",
+    "method": "Frozen-GRCS",
+    "seed": 7,
+    "goodput": 54.15798383851493,
+    "failure": 0.156,
+    "rf": 0.4833533333333333,
+    "queue": 40.9399056013672,
+    "idle": 0.0
+  },
+  {
+    "case": "gaussian_reference",
+    "method": "A-GRCS-ACK",
+    "seed": 8,
+    "goodput": 55.489718176235,
+    "failure": 0.08566666666666667,
+    "rf": 0.5020466666666666,
+    "queue": 19.527926476804904,
+    "idle": 0.0
+  },
+  {
+    "case": "gaussian_reference",
+    "method": "Frozen-GRCS",
+    "seed": 8,
+    "goodput": 56.55754182995697,
+    "failure": 0.12466666666666666,
+    "rf": 0.5114033333333333,
+    "queue": 16.279045671245136,
+    "idle": 0.0
+  },
+  {
+    "case": "gaussian_reference",
+    "method": "A-GRCS-ACK",
+    "seed": 9,
+    "goodput": 52.980051371324535,
+    "failure": 0.09233333333333334,
+    "rf": 0.4997216666666667,
+    "queue": 18.81380415026678,
+    "idle": 0.0
+  },
+  {
+    "case": "gaussian_reference",
+    "method": "Frozen-GRCS",
+    "seed": 9,
+    "goodput": 53.94959796919306,
+    "failure": 0.099,
+    "rf": 0.5439583333333333,
+    "queue": 18.353370813090518,
+    "idle": 0.0
+  }
+]

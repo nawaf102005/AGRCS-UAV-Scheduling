@@ -1,0 +1,143 @@
+{
+  "profile": "quick",
+  "seeds": [
+    0,
+    1
+  ],
+  "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "platform": "Linux-6.18.44-x86_64-with-glibc2.41",
+  "cases": {
+    "stationary": {
+      "config": {
+        "users": 24,
+        "uavs": 6,
+        "rbs": 2,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.05,
+          0.1,
+          0.2,
+          0.5
+        ],
+        "alpha": 0.1,
+        "gamma": 0.02,
+        "window": 256,
+        "arrival": 0.24,
+        "eta": 0.5,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 0.5,
+        "reference_fraction": 0.025,
+        "temporal": 0.85,
+        "error_temporal": 0.7,
+        "scenario": "stationary",
+        "slots": 120,
+        "train_n": 40,
+        "cal_n": 100,
+        "speed": 15.0,
+        "scale_mode": "learned"
+      },
+      "methods": [
+        "A-GRCS",
+        "Frozen-GRCS",
+        "Rolling-GRCS",
+        "ACI-d2",
+        "ACI-Full",
+        "Nominal",
+        "PF-Power",
+        "DDQN-Match",
+        "Oracle"
+      ]
+    },
+    "abrupt": {
+      "config": {
+        "users": 24,
+        "uavs": 6,
+        "rbs": 2,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.05,
+          0.1,
+          0.2,
+          0.5
+        ],
+        "alpha": 0.1,
+        "gamma": 0.02,
+        "window": 256,
+        "arrival": 0.24,
+        "eta": 0.5,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 0.5,
+        "reference_fraction": 0.025,
+        "temporal": 0.85,
+        "error_temporal": 0.7,
+        "scenario": "abrupt",
+        "slots": 120,
+        "train_n": 40,
+        "cal_n": 100,
+        "speed": 15.0,
+        "scale_mode": "learned"
+      },
+      "methods": [
+        "A-GRCS",
+        "Frozen-GRCS",
+        "Rolling-GRCS",
+        "ACI-d2",
+        "ACI-Full",
+        "Nominal",
+        "PF-Power",
+        "DDQN-Match",
+        "Oracle"
+      ]
+    }
+  },
+  "source_sha256": {
+    "agrcs/__init__.py": "95b9f4756afe6ce7532235fab3ffed84c1b21f95e5df6016de820c0fe64ce243",
+    "agrcs/calibration.py": "2d9b58bd781c29c626f94986dd5b3f4ff67145c31a344e03172ed6bbab0ec721",
+    "agrcs/model.py": "d502bb795428da2742cf28fdf407cb75ff52057c11fa4fdec0c287b17b2990ad",
+    "agrcs/rl.py": "b8cc318a55f6f7c5b4d4bc9cb5de7044643ab471c2c5ee1ac085909aec0824a3",
+    "agrcs/scheduler.py": "35d74a33b590575cea4bb07122ce9f12f6774ee974243ea99bf9d5358284a09b",
+    "audit_final.py": "fd9987af14955748d8a670cbc5c4de34d1d4185b666bf3b92d0a0a424c28030b",
+    "benchmark_latency.py": "64f785140b1805d72dabbc7287e09a5c022df141da5fdb36b21c0dc7ab5691a9",
+    "build_report(2).py": "f2c66c03aae9c4db4c8c0374fef8c93e588cde98fe5ded6954c9e7d88bd9a3b0",
+    "build_report.py": "ca115064f53f8063248c1ef319ff614b3cad8b0ebea0fb21301d072d36ad78e1",
+    "check_release.py": "6e87e2301925b732fdfc0dd4dd8fe1ce5d0f8ce5ec0c407d1bcc0433bd92e763",
+    "draw_system_model.py": "9f4bbf5fcf1b28944a4d142eb7d66a0890a60e68c8bdca53dd796d6d27aa3da4",
+    "example_figure.py": "045022168c168bce4bcfd5fa4d6d7f1b24b3e608d7c9fa1ede0816583e73a9ba",
+    "merge_results.py": "c8773204cc22ff45b8ab3b2fb5f4b6460f3cb0c4838175edf2cfdf6c504bb978",
+    "plot_style.py": "feae94b2de373ce269e5b5698c7161962fcdd56b0e678f765f67cb64edb6f9b9",
+    "reproduce.py": "a1a596f44afba53be1ee2628e119cf2d71b5c0b84eb15ba9357c6ca3d711dc76",
+    "review_additions.py": "66f0798f4e86fa50c162f768a4626cbb70b0be53e8e457ddcc9fb4c07b492e24",
+    "reviewer_experiments.py": "aa5ce9d518cb0590d3156ef804d20a0028957abfe41188084f94a53a68e5fa61",
+    "reviewer_report.py": "509e814cc2c1633d71a584277dd395d4ae2a6d23f297982fc891e023a1265aa8",
+    "run_bulk.py": "e5cf76f520784d93e4df3002ac687a144b6ed623831431be2f49ab93b3eb3b88",
+    "run_experiments.py": "87cce5c388b6e136bdd20d79307c58c72fc55b55a32bc06da181e9c4a92d5eff",
+    "test_figure_style.py": "e3dfea92bf64c12d51c5719d449bb992ad4e9cfdcc5ae5aef19ff6fba0ebdd79",
+    "train_ddqn.py": "62324ad7c53773814a0514ea802de243dd7140ba326b0b7975b9c01337179a07",
+    "union_stress_extension.py": "fe275711a1fc4069be9c1d52c37351dde5c00637e42cd1594c23ab2e5bd47690",
+    "verify.py": "2c7661bdeb03ce7caaa39806ddeb8089e3bbaea312d4cd5d1542184e9606223b"
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "seed": 0,
+    "all_prefix_identity_max_error": 5.684341886080802e-14
+  },
+  {
+    "seed": 1,
+    "all_prefix_identity_max_error": 5.684341886080802e-14
+  },
+  {
+    "seed": 2,
+    "all_prefix_identity_max_error": 5.684341886080802e-14
+  },
+  {
+    "seed": 3,
+    "all_prefix_identity_max_error": 5.684341886080802e-14
+  },
+  {
+    "seed": 4,
+    "all_prefix_identity_max_error": 5.684341886080802e-14
+  },
+  {
+    "seed": 5,
+    "all_prefix_identity_max_error": 5.684341886080802e-14
+  },
+  {
+    "seed": 6,
+    "all_prefix_identity_max_error": 5.684341886080802e-14
+  },
+  {
+    "seed": 7,
+    "all_prefix_identity_max_error": 5.684341886080802e-14
+  },
+  {
+    "seed": 8,
+    "all_prefix_identity_max_error": 5.684341886080802e-14
+  },
+  {
+    "seed": 9,
+    "all_prefix_identity_max_error": 5.684341886080802e-14
+  }
+]

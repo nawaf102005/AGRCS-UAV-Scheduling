@@ -1,0 +1,57 @@
+{
+  "config": {
+    "users": 24,
+    "uavs": 6,
+    "rbs": 2,
+    "degrees": [
+      1,
+      2,
+      4
+    ],
+    "slot": 0.1,
+    "total_bw": 12000000.0,
+    "area": 1500.0,
+    "height": 100.0,
+    "powers": [
+      0.05,
+      0.1,
+      0.2,
+      0.5
+    ],
+    "alpha": 0.1,
+    "gamma": 0.02,
+    "window": 256,
+    "arrival": 0.24,
+    "eta": 0.5,
+    "initial_queue": 2.0,
+    "rf_budget": 0.35,
+    "budget_step": 0.5,
+    "handoff_cost": 0.02,
+    "reference_error": 0.5,
+    "reference_fraction": 0.025,
+    "temporal": 0.85,
+    "error_temporal": 0.7,
+    "scenario": "abrupt",
+    "slots": 3000,
+    "train_n": 500,
+    "cal_n": 1000,
+    "speed": 15.0,
+    "scale_mode": "learned"
+  },
+  "reference_sd_db": 1.0,
+  "development_reference": "uniform +/-0.5 dB",
+  "evaluation_reference": "independent Gaussian 1 dB",
+  "reference_rng_namespace": 900000,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ]
+}

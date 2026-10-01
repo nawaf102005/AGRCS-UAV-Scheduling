@@ -1,0 +1,122 @@
+[
+  {
+    "users": 24,
+    "method": "A-GRCS",
+    "mean_ms": 0.5066271339999999,
+    "p95_ms": 0.6397626499999999,
+    "max_ms": 1.463903,
+    "deadline_misses": 0
+  },
+  {
+    "users": 24,
+    "method": "ACI-d2",
+    "mean_ms": 0.205067594,
+    "p95_ms": 0.29406074999999954,
+    "max_ms": 0.576718,
+    "deadline_misses": 0
+  },
+  {
+    "users": 24,
+    "method": "ACI-Full",
+    "mean_ms": 0.21754119800000002,
+    "p95_ms": 0.3390452499999999,
+    "max_ms": 0.717109,
+    "deadline_misses": 0
+  },
+  {
+    "users": 24,
+    "method": "PF-Power",
+    "mean_ms": 0.22126652200000002,
+    "p95_ms": 0.32156809999999997,
+    "max_ms": 1.146396,
+    "deadline_misses": 0
+  },
+  {
+    "users": 24,
+    "method": "DDQN-Match",
+    "mean_ms": 0.32811889799999994,
+    "p95_ms": 0.46065405,
+    "max_ms": 0.79757,
+    "deadline_misses": 0
+  },
+  {
+    "users": 50,
+    "method": "A-GRCS",
+    "mean_ms": 0.757033132,
+    "p95_ms": 1.0030206,
+    "max_ms": 1.76097,
+    "deadline_misses": 0
+  },
+  {
+    "users": 50,
+    "method": "ACI-d2",
+    "mean_ms": 0.28637929199999995,
+    "p95_ms": 0.3866315999999999,
+    "max_ms": 0.845557,
+    "deadline_misses": 0
+  },
+  {
+    "users": 50,
+    "method": "ACI-Full",
+    "mean_ms": 0.282051364,
+    "p95_ms": 0.37026605,
+    "max_ms": 0.673002,
+    "deadline_misses": 0
+  },
+  {
+    "users": 50,
+    "method": "PF-Power",
+    "mean_ms": 0.295664966,
+    "p95_ms": 0.4180742999999995,
+    "max_ms": 0.852203,
+    "deadline_misses": 0
+  },
+  {
+    "users": 50,
+    "method": "DDQN-Match",
+    "mean_ms": 0.400439064,
+    "p95_ms": 0.5012331,
+    "max_ms": 0.81756,
+    "deadline_misses": 0
+  },
+  {
+    "users": 100,
+    "method": "A-GRCS",
+    "mean_ms": 1.1379089039999999,
+    "p95_ms": 1.3584797499999999,
+    "max_ms": 2.222265,
+    "deadline_misses": 0
+  },
+  {
+    "users": 100,
+    "method": "ACI-d2",
+    "mean_ms": 0.438423044,
+    "p95_ms": 0.5662492999999998,
+    "max_ms": 1.392396,
+    "deadline_misses": 0
+  },
+  {
+    "users": 100,
+    "method": "ACI-Full",
+    "mean_ms": 0.451626508,
+    "p95_ms": 0.5598788499999995,
+    "max_ms": 1.498846,
+    "deadline_misses": 0
+  },
+  {
+    "users": 100,
+    "method": "PF-Power",
+    "mean_ms": 0.432054872,
+    "p95_ms": 0.5232372999999999,
+    "max_ms": 1.717956,
+    "deadline_misses": 0
+  },
+  {
+    "users": 100,
+    "method": "DDQN-Match",
+    "mean_ms": 0.574892018,
+    "p95_ms": 0.7660577999999999,
+    "max_ms": 1.583674,
+    "deadline_misses": 0
+  }
+]

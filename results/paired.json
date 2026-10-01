@@ -1,0 +1,3117 @@
+[
+  {
+    "case": "stationary",
+    "baseline": "Frozen-GRCS",
+    "metric": "failure",
+    "difference": 0.0038666666666666667,
+    "ci95": 0.002306956703184347
+  },
+  {
+    "case": "stationary",
+    "baseline": "Frozen-GRCS",
+    "metric": "goodput",
+    "difference": -0.08157913864783879,
+    "ci95": 0.3730506507846429
+  },
+  {
+    "case": "stationary",
+    "baseline": "Frozen-GRCS",
+    "metric": "rf",
+    "difference": 0.007410000000000011,
+    "ci95": 0.023186922711346224
+  },
+  {
+    "case": "stationary",
+    "baseline": "Frozen-GRCS",
+    "metric": "queue",
+    "difference": -1.3590239147449428,
+    "ci95": 2.549249796103462
+  },
+  {
+    "case": "stationary",
+    "baseline": "Frozen-GRCS",
+    "metric": "degree",
+    "difference": 0.5,
+    "ci95": 0.4036232997693181
+  },
+  {
+    "case": "stationary",
+    "baseline": "Rolling-GRCS",
+    "metric": "failure",
+    "difference": 0.0026333333333333334,
+    "ci95": 0.0021162781737966447
+  },
+  {
+    "case": "stationary",
+    "baseline": "Rolling-GRCS",
+    "metric": "goodput",
+    "difference": -0.1558643712884681,
+    "ci95": 0.3807877229583021
+  },
+  {
+    "case": "stationary",
+    "baseline": "Rolling-GRCS",
+    "metric": "rf",
+    "difference": 0.009748500000000021,
+    "ci95": 0.023966567979827595
+  },
+  {
+    "case": "stationary",
+    "baseline": "Rolling-GRCS",
+    "metric": "queue",
+    "difference": -0.5519042802470796,
+    "ci95": 2.3069866270994632
+  },
+  {
+    "case": "stationary",
+    "baseline": "Rolling-GRCS",
+    "metric": "degree",
+    "difference": 0.5,
+    "ci95": 0.4036232997693181
+  },
+  {
+    "case": "stationary",
+    "baseline": "ACI-d2",
+    "metric": "failure",
+    "difference": 0.0017000000000000001,
+    "ci95": 0.0018485821511359975
+  },
+  {
+    "case": "stationary",
+    "baseline": "ACI-d2",
+    "metric": "goodput",
+    "difference": -0.11969965121695054,
+    "ci95": 0.4041043738539799
+  },
+  {
+    "case": "stationary",
+    "baseline": "ACI-d2",
+    "metric": "rf",
+    "difference": 0.009482500000000038,
+    "ci95": 0.024056419850189078
+  },
+  {
+    "case": "stationary",
+    "baseline": "ACI-d2",
+    "metric": "queue",
+    "difference": -0.9234404282485513,
+    "ci95": 2.250159333083006
+  },
+  {
+    "case": "stationary",
+    "baseline": "ACI-d2",
+    "metric": "degree",
+    "difference": 0.5,
+    "ci95": 0.4036232997693181
+  },
+  {
+    "case": "stationary",
+    "baseline": "ACI-Full",
+    "metric": "failure",
+    "difference": 0.0025333333333333336,
+    "ci95": 0.002017706674229335
+  },
+  {
+    "case": "stationary",
+    "baseline": "ACI-Full",
+    "metric": "goodput",
+    "difference": 1.9075682794804998,
+    "ci95": 0.4619089973774908
+  },
+  {
+    "case": "stationary",
+    "baseline": "ACI-Full",
+    "metric": "rf",
+    "difference": -0.07146433333333328,
+    "ci95": 0.02329558067745219
+  },
+  {
+    "case": "stationary",
+    "baseline": "ACI-Full",
+    "metric": "queue",
+    "difference": -14.306868113553634,
+    "ci95": 3.7751179819714515
+  },
+  {
+    "case": "stationary",
+    "baseline": "ACI-Full",
+    "metric": "degree",
+    "difference": -3.5,
+    "ci95": 0.4036232997693181
+  },
+  {
+    "case": "stationary",
+    "baseline": "Nominal",
+    "metric": "failure",
+    "difference": -0.9784999999999998,
+    "ci95": 0.002653507387749781
+  },
+  {
+    "case": "stationary",
+    "baseline": "Nominal",
+    "metric": "goodput",
+    "difference": 15.631262203270788,
+    "ci95": 1.254253406038135
+  },
+  {
+    "case": "stationary",
+    "baseline": "Nominal",
+    "metric": "rf",
+    "difference": -0.04638733333333328,
+    "ci95": 0.02238106351963456
+  },
+  {
+    "case": "stationary",
+    "baseline": "Nominal",
+    "metric": "queue",
+    "difference": -103.31944703196037,
+    "ci95": 6.851842836141711
+  },
+  {
+    "case": "stationary",
+    "baseline": "Nominal",
+    "metric": "degree",
+    "difference": 0.5,
+    "ci95": 0.4036232997693181
+  },
+  {
+    "case": "stationary",
+    "baseline": "PF-Power",
+    "metric": "failure",
+    "difference": 0.0024333333333333334,
+    "ci95": 0.0015166682808829168
+  },
+  {
+    "case": "stationary",
+    "baseline": "PF-Power",
+    "metric": "goodput",
+    "difference": 1.3853986945143546,
+    "ci95": 0.5813205356199853
+  },
+  {
+    "case": "stationary",
+    "baseline": "PF-Power",
+    "metric": "rf",
+    "difference": 0.09830800000000002,
+    "ci95": 0.02487359858526342
+  },
+  {
+    "case": "stationary",
+    "baseline": "PF-Power",
+    "metric": "queue",
+    "difference": -11.79944549242806,
+    "ci95": 2.4399183620187843
+  },
+  {
+    "case": "stationary",
+    "baseline": "PF-Power",
+    "metric": "degree",
+    "difference": 0.5,
+    "ci95": 0.4036232997693181
+  },
+  {
+    "case": "stationary",
+    "baseline": "DDQN-Match",
+    "metric": "failure",
+    "difference": 0.0046,
+    "ci95": 0.006589802403293222
+  },
+  {
+    "case": "stationary",
+    "baseline": "DDQN-Match",
+    "metric": "goodput",
+    "difference": 2.1204928890889776,
+    "ci95": 1.6648362359976239
+  },
+  {
+    "case": "stationary",
+    "baseline": "DDQN-Match",
+    "metric": "rf",
+    "difference": 0.048418166666666665,
+    "ci95": 0.02246597346524867
+  },
+  {
+    "case": "stationary",
+    "baseline": "DDQN-Match",
+    "metric": "queue",
+    "difference": -17.481825211156664,
+    "ci95": 6.940093040340893
+  },
+  {
+    "case": "stationary",
+    "baseline": "DDQN-Match",
+    "metric": "degree",
+    "difference": 0.7164666666666667,
+    "ci95": 0.4102988862361841
+  },
+  {
+    "case": "stationary",
+    "baseline": "Oracle",
+    "metric": "failure",
+    "difference": 0.0128,
+    "ci95": 0.0028706857915293048
+  },
+  {
+    "case": "stationary",
+    "baseline": "Oracle",
+    "metric": "goodput",
+    "difference": -3.3174611256957443,
+    "ci95": 0.9006347671126831
+  },
+  {
+    "case": "stationary",
+    "baseline": "Oracle",
+    "metric": "rf",
+    "difference": 0.2809425,
+    "ci95": 0.024113647218807616
+  },
+  {
+    "case": "stationary",
+    "baseline": "Oracle",
+    "metric": "queue",
+    "difference": 26.796229474364985,
+    "ci95": 6.189800735269858
+  },
+  {
+    "case": "stationary",
+    "baseline": "Oracle",
+    "metric": "degree",
+    "difference": 0.5,
+    "ci95": 0.4036232997693181
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Frozen-GRCS",
+    "metric": "failure",
+    "difference": -0.11646666666666668,
+    "ci95": 0.016912079977499276
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Frozen-GRCS",
+    "metric": "goodput",
+    "difference": -4.633622620011757,
+    "ci95": 0.5210193750258547
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Frozen-GRCS",
+    "metric": "rf",
+    "difference": -0.05554366666666667,
+    "ci95": 0.0187401471438839
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Frozen-GRCS",
+    "metric": "queue",
+    "difference": 20.628726401312537,
+    "ci95": 1.957165466510674
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Frozen-GRCS",
+    "metric": "degree",
+    "difference": -0.37366666666666665,
+    "ci95": 0.1515043688467034
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Rolling-GRCS",
+    "metric": "failure",
+    "difference": -0.00033333333333333305,
+    "ci95": 0.0022141708318054463
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Rolling-GRCS",
+    "metric": "goodput",
+    "difference": -0.5029268916816442,
+    "ci95": 0.37312101298158323
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Rolling-GRCS",
+    "metric": "rf",
+    "difference": -0.06428316666666664,
+    "ci95": 0.017415021401688654
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Rolling-GRCS",
+    "metric": "queue",
+    "difference": 2.31963314827613,
+    "ci95": 1.7810149840083611
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Rolling-GRCS",
+    "metric": "degree",
+    "difference": -0.37366666666666665,
+    "ci95": 0.1515043688467034
+  },
+  {
+    "case": "abrupt",
+    "baseline": "ACI-d2",
+    "metric": "failure",
+    "difference": 0.0027333333333333333,
+    "ci95": 0.001876902216742181
+  },
+  {
+    "case": "abrupt",
+    "baseline": "ACI-d2",
+    "metric": "goodput",
+    "difference": -0.3705508363123336,
+    "ci95": 0.40049309389180404
+  },
+  {
+    "case": "abrupt",
+    "baseline": "ACI-d2",
+    "metric": "rf",
+    "difference": -0.06359016666666666,
+    "ci95": 0.017500698407855647
+  },
+  {
+    "case": "abrupt",
+    "baseline": "ACI-d2",
+    "metric": "queue",
+    "difference": 0.08918500008644373,
+    "ci95": 2.0118281199646084
+  },
+  {
+    "case": "abrupt",
+    "baseline": "ACI-d2",
+    "metric": "degree",
+    "difference": -0.37366666666666665,
+    "ci95": 0.1515043688467034
+  },
+  {
+    "case": "abrupt",
+    "baseline": "ACI-Full",
+    "metric": "failure",
+    "difference": 0.0039,
+    "ci95": 0.002946384590492167
+  },
+  {
+    "case": "abrupt",
+    "baseline": "ACI-Full",
+    "metric": "goodput",
+    "difference": 3.5705535521911806,
+    "ci95": 0.5685957875679449
+  },
+  {
+    "case": "abrupt",
+    "baseline": "ACI-Full",
+    "metric": "rf",
+    "difference": -0.13394466666666666,
+    "ci95": 0.015652160776392948
+  },
+  {
+    "case": "abrupt",
+    "baseline": "ACI-Full",
+    "metric": "queue",
+    "difference": -20.62696521401438,
+    "ci95": 4.106982098722664
+  },
+  {
+    "case": "abrupt",
+    "baseline": "ACI-Full",
+    "metric": "degree",
+    "difference": -4.373666666666667,
+    "ci95": 0.15150436884670346
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Nominal",
+    "metric": "failure",
+    "difference": -0.9777333333333335,
+    "ci95": 0.00284770579426951
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Nominal",
+    "metric": "goodput",
+    "difference": 16.309704594018996,
+    "ci95": 1.4197527044687952
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Nominal",
+    "metric": "rf",
+    "difference": -0.11462366666666661,
+    "ci95": 0.018522675734405053
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Nominal",
+    "metric": "queue",
+    "difference": -102.95595064110519,
+    "ci95": 7.03018163947234
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Nominal",
+    "metric": "degree",
+    "difference": -0.37366666666666665,
+    "ci95": 0.1515043688467034
+  },
+  {
+    "case": "abrupt",
+    "baseline": "PF-Power",
+    "metric": "failure",
+    "difference": 0.0010333333333333336,
+    "ci95": 0.0017466619817580317
+  },
+  {
+    "case": "abrupt",
+    "baseline": "PF-Power",
+    "metric": "goodput",
+    "difference": 1.8471911587759209,
+    "ci95": 0.816273175381397
+  },
+  {
+    "case": "abrupt",
+    "baseline": "PF-Power",
+    "metric": "rf",
+    "difference": 0.00941466666666665,
+    "ci95": 0.016387530309246362
+  },
+  {
+    "case": "abrupt",
+    "baseline": "PF-Power",
+    "metric": "queue",
+    "difference": -11.534779257065361,
+    "ci95": 3.0165589075456745
+  },
+  {
+    "case": "abrupt",
+    "baseline": "PF-Power",
+    "metric": "degree",
+    "difference": -0.37366666666666665,
+    "ci95": 0.1515043688467034
+  },
+  {
+    "case": "abrupt",
+    "baseline": "DDQN-Match",
+    "metric": "failure",
+    "difference": -0.06496666666666666,
+    "ci95": 0.03533181374351231
+  },
+  {
+    "case": "abrupt",
+    "baseline": "DDQN-Match",
+    "metric": "goodput",
+    "difference": -2.5133926948681933,
+    "ci95": 0.9773527909901129
+  },
+  {
+    "case": "abrupt",
+    "baseline": "DDQN-Match",
+    "metric": "rf",
+    "difference": -0.016511166666666705,
+    "ci95": 0.023338608087098478
+  },
+  {
+    "case": "abrupt",
+    "baseline": "DDQN-Match",
+    "metric": "queue",
+    "difference": 4.780023819674714,
+    "ci95": 3.4630260351830477
+  },
+  {
+    "case": "abrupt",
+    "baseline": "DDQN-Match",
+    "metric": "degree",
+    "difference": -0.14999999999999997,
+    "ci95": 0.3090076262076724
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Oracle",
+    "metric": "failure",
+    "difference": 0.015466666666666667,
+    "ci95": 0.002693561256292125
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Oracle",
+    "metric": "goodput",
+    "difference": -7.4653223531364405,
+    "ci95": 1.1544061755854327
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Oracle",
+    "metric": "rf",
+    "difference": 0.2155008333333333,
+    "ci95": 0.021221616406649445
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Oracle",
+    "metric": "queue",
+    "difference": 46.71643689726058,
+    "ci95": 6.352643177535712
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Oracle",
+    "metric": "degree",
+    "difference": -0.37366666666666665,
+    "ci95": 0.1515043688467034
+  },
+  {
+    "case": "load_high",
+    "baseline": "Frozen-GRCS",
+    "metric": "failure",
+    "difference": -0.09056666666666666,
+    "ci95": 0.012461043673625483
+  },
+  {
+    "case": "load_high",
+    "baseline": "Frozen-GRCS",
+    "metric": "goodput",
+    "difference": -6.507498216727242,
+    "ci95": 0.5850921160322253
+  },
+  {
+    "case": "load_high",
+    "baseline": "Frozen-GRCS",
+    "metric": "rf",
+    "difference": -0.05362583333333332,
+    "ci95": 0.02000079749135898
+  },
+  {
+    "case": "load_high",
+    "baseline": "Frozen-GRCS",
+    "metric": "queue",
+    "difference": 26.00287024945674,
+    "ci95": 3.0400594015412903
+  },
+  {
+    "case": "load_high",
+    "baseline": "Frozen-GRCS",
+    "metric": "degree",
+    "difference": -0.35773333333333335,
+    "ci95": 0.42585560310316883
+  },
+  {
+    "case": "load_high",
+    "baseline": "Rolling-GRCS",
+    "metric": "failure",
+    "difference": 0.001666666666666667,
+    "ci95": 0.0015817136321961615
+  },
+  {
+    "case": "load_high",
+    "baseline": "Rolling-GRCS",
+    "metric": "goodput",
+    "difference": -0.625520430143574,
+    "ci95": 0.6549624874936923
+  },
+  {
+    "case": "load_high",
+    "baseline": "Rolling-GRCS",
+    "metric": "rf",
+    "difference": -0.05259883333333332,
+    "ci95": 0.019647881261733273
+  },
+  {
+    "case": "load_high",
+    "baseline": "Rolling-GRCS",
+    "metric": "queue",
+    "difference": 3.2255514575251794,
+    "ci95": 2.9691401133517155
+  },
+  {
+    "case": "load_high",
+    "baseline": "Rolling-GRCS",
+    "metric": "degree",
+    "difference": -0.35773333333333335,
+    "ci95": 0.42585560310316883
+  },
+  {
+    "case": "load_high",
+    "baseline": "ACI-d2",
+    "metric": "failure",
+    "difference": 0.0030000000000000005,
+    "ci95": 0.0016672725612925687
+  },
+  {
+    "case": "load_high",
+    "baseline": "ACI-d2",
+    "metric": "goodput",
+    "difference": -0.29236177106223094,
+    "ci95": 0.6276948826087523
+  },
+  {
+    "case": "load_high",
+    "baseline": "ACI-d2",
+    "metric": "rf",
+    "difference": -0.05123033333333334,
+    "ci95": 0.0196682481739668
+  },
+  {
+    "case": "load_high",
+    "baseline": "ACI-d2",
+    "metric": "queue",
+    "difference": -0.05715196388014334,
+    "ci95": 3.0632537868269814
+  },
+  {
+    "case": "load_high",
+    "baseline": "ACI-d2",
+    "metric": "degree",
+    "difference": -0.35773333333333335,
+    "ci95": 0.42585560310316883
+  },
+  {
+    "case": "load_high",
+    "baseline": "ACI-Full",
+    "metric": "failure",
+    "difference": 0.005366666666666666,
+    "ci95": 0.0022466037283269203
+  },
+  {
+    "case": "load_high",
+    "baseline": "ACI-Full",
+    "metric": "goodput",
+    "difference": 7.1445992731743955,
+    "ci95": 1.1286299079015227
+  },
+  {
+    "case": "load_high",
+    "baseline": "ACI-Full",
+    "metric": "rf",
+    "difference": -0.0936368333333333,
+    "ci95": 0.0267274255345353
+  },
+  {
+    "case": "load_high",
+    "baseline": "ACI-Full",
+    "metric": "queue",
+    "difference": -39.26914431827917,
+    "ci95": 5.705766466352175
+  },
+  {
+    "case": "load_high",
+    "baseline": "ACI-Full",
+    "metric": "degree",
+    "difference": -4.357733333333333,
+    "ci95": 0.42585560310316883
+  },
+  {
+    "case": "load_high",
+    "baseline": "Nominal",
+    "metric": "failure",
+    "difference": -0.9771333333333334,
+    "ci95": 0.0021975593039146864
+  },
+  {
+    "case": "load_high",
+    "baseline": "Nominal",
+    "metric": "goodput",
+    "difference": 27.2265237690655,
+    "ci95": 1.8960250909732708
+  },
+  {
+    "case": "load_high",
+    "baseline": "Nominal",
+    "metric": "rf",
+    "difference": -0.08128316666666663,
+    "ci95": 0.02554196279685261
+  },
+  {
+    "case": "load_high",
+    "baseline": "Nominal",
+    "metric": "queue",
+    "difference": -162.85570637370117,
+    "ci95": 10.652393329434108
+  },
+  {
+    "case": "load_high",
+    "baseline": "Nominal",
+    "metric": "degree",
+    "difference": -0.35773333333333335,
+    "ci95": 0.42585560310316883
+  },
+  {
+    "case": "load_high",
+    "baseline": "PF-Power",
+    "metric": "failure",
+    "difference": -0.00033333333333333305,
+    "ci95": 0.0019631124719549555
+  },
+  {
+    "case": "load_high",
+    "baseline": "PF-Power",
+    "metric": "goodput",
+    "difference": 6.803448220534409,
+    "ci95": 1.2433850000756639
+  },
+  {
+    "case": "load_high",
+    "baseline": "PF-Power",
+    "metric": "rf",
+    "difference": -0.009235833333333337,
+    "ci95": 0.019181349452403358
+  },
+  {
+    "case": "load_high",
+    "baseline": "PF-Power",
+    "metric": "queue",
+    "difference": -33.888975903587465,
+    "ci95": 7.631141639163575
+  },
+  {
+    "case": "load_high",
+    "baseline": "PF-Power",
+    "metric": "degree",
+    "difference": -0.35773333333333335,
+    "ci95": 0.42585560310316883
+  },
+  {
+    "case": "load_high",
+    "baseline": "DDQN-Match",
+    "metric": "failure",
+    "difference": -0.16030000000000003,
+    "ci95": 0.12919682500387186
+  },
+  {
+    "case": "load_high",
+    "baseline": "DDQN-Match",
+    "metric": "goodput",
+    "difference": -4.137386161530978,
+    "ci95": 4.00482728198842
+  },
+  {
+    "case": "load_high",
+    "baseline": "DDQN-Match",
+    "metric": "rf",
+    "difference": -0.021041166666666687,
+    "ci95": 0.029452499399992168
+  },
+  {
+    "case": "load_high",
+    "baseline": "DDQN-Match",
+    "metric": "queue",
+    "difference": 10.01901139487055,
+    "ci95": 23.16912747165841
+  },
+  {
+    "case": "load_high",
+    "baseline": "DDQN-Match",
+    "metric": "degree",
+    "difference": -0.05383333333333331,
+    "ci95": 0.4300576309553715
+  },
+  {
+    "case": "load_high",
+    "baseline": "Oracle",
+    "metric": "failure",
+    "difference": 0.015466666666666667,
+    "ci95": 0.0019829650358863236
+  },
+  {
+    "case": "load_high",
+    "baseline": "Oracle",
+    "metric": "goodput",
+    "difference": -20.308354838904656,
+    "ci95": 1.987643333709889
+  },
+  {
+    "case": "load_high",
+    "baseline": "Oracle",
+    "metric": "rf",
+    "difference": 0.04874916666666664,
+    "ci95": 0.03629105217269964
+  },
+  {
+    "case": "load_high",
+    "baseline": "Oracle",
+    "metric": "queue",
+    "difference": 123.31280961961245,
+    "ci95": 9.725307485282054
+  },
+  {
+    "case": "load_high",
+    "baseline": "Oracle",
+    "metric": "degree",
+    "difference": -0.35773333333333335,
+    "ci95": 0.42585560310316883
+  },
+  {
+    "case": "gradual",
+    "baseline": "Frozen-GRCS",
+    "metric": "failure",
+    "difference": -0.10506666666666667,
+    "ci95": 0.018609399136470264
+  },
+  {
+    "case": "gradual",
+    "baseline": "Frozen-GRCS",
+    "metric": "goodput",
+    "difference": -5.109797725798943,
+    "ci95": 0.5373516902310288
+  },
+  {
+    "case": "gradual",
+    "baseline": "Frozen-GRCS",
+    "metric": "rf",
+    "difference": -0.023350833333333366,
+    "ci95": 0.03327816483561781
+  },
+  {
+    "case": "gradual",
+    "baseline": "Frozen-GRCS",
+    "metric": "queue",
+    "difference": 26.376810959820165,
+    "ci95": 2.582753363982737
+  },
+  {
+    "case": "gradual",
+    "baseline": "Frozen-GRCS",
+    "metric": "degree",
+    "difference": 0.20070000000000005,
+    "ci95": 0.5728706420667479
+  },
+  {
+    "case": "gradual",
+    "baseline": "Rolling-GRCS",
+    "metric": "failure",
+    "difference": 0.0001333333333333334,
+    "ci95": 0.001141918505895697
+  },
+  {
+    "case": "gradual",
+    "baseline": "Rolling-GRCS",
+    "metric": "goodput",
+    "difference": -1.0907585974004654,
+    "ci95": 0.4384888638981272
+  },
+  {
+    "case": "gradual",
+    "baseline": "Rolling-GRCS",
+    "metric": "rf",
+    "difference": -0.03566566666666664,
+    "ci95": 0.034723884227501875
+  },
+  {
+    "case": "gradual",
+    "baseline": "Rolling-GRCS",
+    "metric": "queue",
+    "difference": 6.970557696795777,
+    "ci95": 2.2354654248039596
+  },
+  {
+    "case": "gradual",
+    "baseline": "Rolling-GRCS",
+    "metric": "degree",
+    "difference": 0.20070000000000005,
+    "ci95": 0.5728706420667479
+  },
+  {
+    "case": "gradual",
+    "baseline": "ACI-d2",
+    "metric": "failure",
+    "difference": 0.0004333333333333333,
+    "ci95": 0.0017415907832196795
+  },
+  {
+    "case": "gradual",
+    "baseline": "ACI-d2",
+    "metric": "goodput",
+    "difference": -0.9437440405722775,
+    "ci95": 0.45656783143837404
+  },
+  {
+    "case": "gradual",
+    "baseline": "ACI-d2",
+    "metric": "rf",
+    "difference": -0.036090000000000025,
+    "ci95": 0.03515922725169463
+  },
+  {
+    "case": "gradual",
+    "baseline": "ACI-d2",
+    "metric": "queue",
+    "difference": 4.463471323951078,
+    "ci95": 2.0396668404374285
+  },
+  {
+    "case": "gradual",
+    "baseline": "ACI-d2",
+    "metric": "degree",
+    "difference": 0.20070000000000005,
+    "ci95": 0.5728706420667479
+  },
+  {
+    "case": "gradual",
+    "baseline": "ACI-Full",
+    "metric": "failure",
+    "difference": 0.0025666666666666663,
+    "ci95": 0.0027002376299633613
+  },
+  {
+    "case": "gradual",
+    "baseline": "ACI-Full",
+    "metric": "goodput",
+    "difference": 3.1335551877698373,
+    "ci95": 0.6470767451595012
+  },
+  {
+    "case": "gradual",
+    "baseline": "ACI-Full",
+    "metric": "rf",
+    "difference": -0.1045426666666666,
+    "ci95": 0.029789601447003898
+  },
+  {
+    "case": "gradual",
+    "baseline": "ACI-Full",
+    "metric": "queue",
+    "difference": -18.648054928436135,
+    "ci95": 3.9637615650332467
+  },
+  {
+    "case": "gradual",
+    "baseline": "ACI-Full",
+    "metric": "degree",
+    "difference": -3.7992999999999997,
+    "ci95": 0.5728706420667479
+  },
+  {
+    "case": "gradual",
+    "baseline": "Nominal",
+    "metric": "failure",
+    "difference": -0.9792666666666665,
+    "ci95": 0.0023892873064102977
+  },
+  {
+    "case": "gradual",
+    "baseline": "Nominal",
+    "metric": "goodput",
+    "difference": 15.877663675879727,
+    "ci95": 1.3393512954309879
+  },
+  {
+    "case": "gradual",
+    "baseline": "Nominal",
+    "metric": "rf",
+    "difference": -0.08382516666666665,
+    "ci95": 0.03260284935560489
+  },
+  {
+    "case": "gradual",
+    "baseline": "Nominal",
+    "metric": "queue",
+    "difference": -99.64277045564504,
+    "ci95": 5.777289492421337
+  },
+  {
+    "case": "gradual",
+    "baseline": "Nominal",
+    "metric": "degree",
+    "difference": 0.20070000000000005,
+    "ci95": 0.5728706420667479
+  },
+  {
+    "case": "gradual",
+    "baseline": "PF-Power",
+    "metric": "failure",
+    "difference": -0.0006999999999999999,
+    "ci95": 0.002024739482845095
+  },
+  {
+    "case": "gradual",
+    "baseline": "PF-Power",
+    "metric": "goodput",
+    "difference": 1.242498458553598,
+    "ci95": 0.8893588711942434
+  },
+  {
+    "case": "gradual",
+    "baseline": "PF-Power",
+    "metric": "rf",
+    "difference": 0.038421666666666646,
+    "ci95": 0.030421459268376194
+  },
+  {
+    "case": "gradual",
+    "baseline": "PF-Power",
+    "metric": "queue",
+    "difference": -6.963271259677501,
+    "ci95": 3.380693508256989
+  },
+  {
+    "case": "gradual",
+    "baseline": "PF-Power",
+    "metric": "degree",
+    "difference": 0.20070000000000005,
+    "ci95": 0.5728706420667479
+  },
+  {
+    "case": "recurrent",
+    "baseline": "Frozen-GRCS",
+    "metric": "failure",
+    "difference": -0.09129999999999999,
+    "ci95": 0.02310526383259672
+  },
+  {
+    "case": "recurrent",
+    "baseline": "Frozen-GRCS",
+    "metric": "goodput",
+    "difference": -3.9892654758736406,
+    "ci95": 0.5370435813227082
+  },
+  {
+    "case": "recurrent",
+    "baseline": "Frozen-GRCS",
+    "metric": "rf",
+    "difference": -0.08881449999999999,
+    "ci95": 0.01287182446036921
+  },
+  {
+    "case": "recurrent",
+    "baseline": "Frozen-GRCS",
+    "metric": "queue",
+    "difference": 22.17239193335798,
+    "ci95": 2.7275302529277976
+  },
+  {
+    "case": "recurrent",
+    "baseline": "Frozen-GRCS",
+    "metric": "degree",
+    "difference": -0.6647666666666667,
+    "ci95": 0.08227407284096355
+  },
+  {
+    "case": "recurrent",
+    "baseline": "Rolling-GRCS",
+    "metric": "failure",
+    "difference": -0.006666666666666668,
+    "ci95": 0.002363232209561991
+  },
+  {
+    "case": "recurrent",
+    "baseline": "Rolling-GRCS",
+    "metric": "goodput",
+    "difference": -1.253519478632414,
+    "ci95": 0.4129774279960935
+  },
+  {
+    "case": "recurrent",
+    "baseline": "Rolling-GRCS",
+    "metric": "rf",
+    "difference": -0.0995373333333333,
+    "ci95": 0.01083034034326274
+  },
+  {
+    "case": "recurrent",
+    "baseline": "Rolling-GRCS",
+    "metric": "queue",
+    "difference": 6.371070554110459,
+    "ci95": 2.4446851610770217
+  },
+  {
+    "case": "recurrent",
+    "baseline": "Rolling-GRCS",
+    "metric": "degree",
+    "difference": -0.6647666666666667,
+    "ci95": 0.08227407284096355
+  },
+  {
+    "case": "recurrent",
+    "baseline": "ACI-d2",
+    "metric": "failure",
+    "difference": 0.0009333333333333331,
+    "ci95": 0.002412967640318085
+  },
+  {
+    "case": "recurrent",
+    "baseline": "ACI-d2",
+    "metric": "goodput",
+    "difference": -1.0232254878749096,
+    "ci95": 0.4268828983111976
+  },
+  {
+    "case": "recurrent",
+    "baseline": "ACI-d2",
+    "metric": "rf",
+    "difference": -0.09664516666666664,
+    "ci95": 0.00985235483813215
+  },
+  {
+    "case": "recurrent",
+    "baseline": "ACI-d2",
+    "metric": "queue",
+    "difference": 5.201464131842613,
+    "ci95": 2.190923161053202
+  },
+  {
+    "case": "recurrent",
+    "baseline": "ACI-d2",
+    "metric": "degree",
+    "difference": -0.6647666666666667,
+    "ci95": 0.08227407284096355
+  },
+  {
+    "case": "recurrent",
+    "baseline": "ACI-Full",
+    "metric": "failure",
+    "difference": 0.002033333333333333,
+    "ci95": 0.0020679618460270003
+  },
+  {
+    "case": "recurrent",
+    "baseline": "ACI-Full",
+    "metric": "goodput",
+    "difference": 2.559083071198433,
+    "ci95": 0.6068862722139639
+  },
+  {
+    "case": "recurrent",
+    "baseline": "ACI-Full",
+    "metric": "rf",
+    "difference": -0.16221949999999996,
+    "ci95": 0.015157589550284121
+  },
+  {
+    "case": "recurrent",
+    "baseline": "ACI-Full",
+    "metric": "queue",
+    "difference": -16.70792119540577,
+    "ci95": 4.518885701682468
+  },
+  {
+    "case": "recurrent",
+    "baseline": "ACI-Full",
+    "metric": "degree",
+    "difference": -4.664766666666667,
+    "ci95": 0.08227407284096358
+  },
+  {
+    "case": "recurrent",
+    "baseline": "Nominal",
+    "metric": "failure",
+    "difference": -0.9776333333333334,
+    "ci95": 0.002630071120821751
+  },
+  {
+    "case": "recurrent",
+    "baseline": "Nominal",
+    "metric": "goodput",
+    "difference": 15.329981371264836,
+    "ci95": 1.231468921375296
+  },
+  {
+    "case": "recurrent",
+    "baseline": "Nominal",
+    "metric": "rf",
+    "difference": -0.14792366666666662,
+    "ci95": 0.011151867556581107
+  },
+  {
+    "case": "recurrent",
+    "baseline": "Nominal",
+    "metric": "queue",
+    "difference": -97.8119087223108,
+    "ci95": 6.391423016534256
+  },
+  {
+    "case": "recurrent",
+    "baseline": "Nominal",
+    "metric": "degree",
+    "difference": -0.6647666666666667,
+    "ci95": 0.08227407284096355
+  },
+  {
+    "case": "recurrent",
+    "baseline": "PF-Power",
+    "metric": "failure",
+    "difference": 0.0003999999999999995,
+    "ci95": 0.0018531901736184343
+  },
+  {
+    "case": "recurrent",
+    "baseline": "PF-Power",
+    "metric": "goodput",
+    "difference": 0.9242191606452487,
+    "ci95": 0.6421334288493302
+  },
+  {
+    "case": "recurrent",
+    "baseline": "PF-Power",
+    "metric": "rf",
+    "difference": -0.021651833333333332,
+    "ci95": 0.013347145905083608
+  },
+  {
+    "case": "recurrent",
+    "baseline": "PF-Power",
+    "metric": "queue",
+    "difference": -6.312371264083209,
+    "ci95": 3.5788006708985893
+  },
+  {
+    "case": "recurrent",
+    "baseline": "PF-Power",
+    "metric": "degree",
+    "difference": -0.6647666666666667,
+    "ci95": 0.08227407284096355
+  },
+  {
+    "case": "interference",
+    "baseline": "Frozen-GRCS",
+    "metric": "failure",
+    "difference": -0.5653666666666667,
+    "ci95": 0.016481579783705125
+  },
+  {
+    "case": "interference",
+    "baseline": "Frozen-GRCS",
+    "metric": "goodput",
+    "difference": -9.873085708563348,
+    "ci95": 0.9356169295481019
+  },
+  {
+    "case": "interference",
+    "baseline": "Frozen-GRCS",
+    "metric": "rf",
+    "difference": -0.06809683333333333,
+    "ci95": 0.007961505976528557
+  },
+  {
+    "case": "interference",
+    "baseline": "Frozen-GRCS",
+    "metric": "queue",
+    "difference": 41.329479393905935,
+    "ci95": 4.9174542074467
+  },
+  {
+    "case": "interference",
+    "baseline": "Frozen-GRCS",
+    "metric": "degree",
+    "difference": -0.46160000000000007,
+    "ci95": 0.1140275151647909
+  },
+  {
+    "case": "interference",
+    "baseline": "Rolling-GRCS",
+    "metric": "failure",
+    "difference": -0.005433333333333333,
+    "ci95": 0.0023499619201072966
+  },
+  {
+    "case": "interference",
+    "baseline": "Rolling-GRCS",
+    "metric": "goodput",
+    "difference": 0.2235200921613462,
+    "ci95": 0.1947942402296518
+  },
+  {
+    "case": "interference",
+    "baseline": "Rolling-GRCS",
+    "metric": "rf",
+    "difference": -0.0379788333333333,
+    "ci95": 0.009183290965535298
+  },
+  {
+    "case": "interference",
+    "baseline": "Rolling-GRCS",
+    "metric": "queue",
+    "difference": -0.1145163001326381,
+    "ci95": 1.446660828473249
+  },
+  {
+    "case": "interference",
+    "baseline": "Rolling-GRCS",
+    "metric": "degree",
+    "difference": -0.46160000000000007,
+    "ci95": 0.1140275151647909
+  },
+  {
+    "case": "interference",
+    "baseline": "ACI-d2",
+    "metric": "failure",
+    "difference": 0.0016,
+    "ci95": 0.0018118191094580681
+  },
+  {
+    "case": "interference",
+    "baseline": "ACI-d2",
+    "metric": "goodput",
+    "difference": 0.34674722172729344,
+    "ci95": 0.28806949461238324
+  },
+  {
+    "case": "interference",
+    "baseline": "ACI-d2",
+    "metric": "rf",
+    "difference": -0.03399866666666665,
+    "ci95": 0.009101334778252285
+  },
+  {
+    "case": "interference",
+    "baseline": "ACI-d2",
+    "metric": "queue",
+    "difference": -2.3729429272270566,
+    "ci95": 1.6887536465503197
+  },
+  {
+    "case": "interference",
+    "baseline": "ACI-d2",
+    "metric": "degree",
+    "difference": -0.46160000000000007,
+    "ci95": 0.1140275151647909
+  },
+  {
+    "case": "interference",
+    "baseline": "ACI-Full",
+    "metric": "failure",
+    "difference": 0.0003000000000000001,
+    "ci95": 0.0018000999267449053
+  },
+  {
+    "case": "interference",
+    "baseline": "ACI-Full",
+    "metric": "goodput",
+    "difference": 1.8882815152208665,
+    "ci95": 0.4259569065634717
+  },
+  {
+    "case": "interference",
+    "baseline": "ACI-Full",
+    "metric": "rf",
+    "difference": -0.09616483333333328,
+    "ci95": 0.011416486673433975
+  },
+  {
+    "case": "interference",
+    "baseline": "ACI-Full",
+    "metric": "queue",
+    "difference": -12.325348266275013,
+    "ci95": 3.0969154763395306
+  },
+  {
+    "case": "interference",
+    "baseline": "ACI-Full",
+    "metric": "degree",
+    "difference": -4.4616,
+    "ci95": 0.11402751516479101
+  },
+  {
+    "case": "interference",
+    "baseline": "Nominal",
+    "metric": "failure",
+    "difference": -0.9839333333333334,
+    "ci95": 0.0014604324819696987
+  },
+  {
+    "case": "interference",
+    "baseline": "Nominal",
+    "metric": "goodput",
+    "difference": 27.97992905470328,
+    "ci95": 1.5547352649160004
+  },
+  {
+    "case": "interference",
+    "baseline": "Nominal",
+    "metric": "rf",
+    "difference": -0.11091749999999993,
+    "ci95": 0.011555575998823486
+  },
+  {
+    "case": "interference",
+    "baseline": "Nominal",
+    "metric": "queue",
+    "difference": -146.88145802464686,
+    "ci95": 7.644523082908736
+  },
+  {
+    "case": "interference",
+    "baseline": "Nominal",
+    "metric": "degree",
+    "difference": -0.46160000000000007,
+    "ci95": 0.1140275151647909
+  },
+  {
+    "case": "interference",
+    "baseline": "PF-Power",
+    "metric": "failure",
+    "difference": 0.0026666666666666666,
+    "ci95": 0.0020969345940578038
+  },
+  {
+    "case": "interference",
+    "baseline": "PF-Power",
+    "metric": "goodput",
+    "difference": 4.125427847884786,
+    "ci95": 0.7782738496290657
+  },
+  {
+    "case": "interference",
+    "baseline": "PF-Power",
+    "metric": "rf",
+    "difference": 0.011389666666666682,
+    "ci95": 0.009857787324499474
+  },
+  {
+    "case": "interference",
+    "baseline": "PF-Power",
+    "metric": "queue",
+    "difference": -19.280415602562318,
+    "ci95": 2.861298337296833
+  },
+  {
+    "case": "interference",
+    "baseline": "PF-Power",
+    "metric": "degree",
+    "difference": -0.46160000000000007,
+    "ci95": 0.1140275151647909
+  },
+  {
+    "case": "users_50",
+    "baseline": "Frozen-GRCS",
+    "metric": "failure",
+    "difference": -0.03876666666666667,
+    "ci95": 0.008102740368552751
+  },
+  {
+    "case": "users_50",
+    "baseline": "Frozen-GRCS",
+    "metric": "goodput",
+    "difference": -5.713801175253461,
+    "ci95": 0.5702306736522629
+  },
+  {
+    "case": "users_50",
+    "baseline": "Frozen-GRCS",
+    "metric": "rf",
+    "difference": -0.018847000000000023,
+    "ci95": 0.008295198824726112
+  },
+  {
+    "case": "users_50",
+    "baseline": "Frozen-GRCS",
+    "metric": "queue",
+    "difference": 12.004712364707219,
+    "ci95": 1.3717260140594312
+  },
+  {
+    "case": "users_50",
+    "baseline": "Frozen-GRCS",
+    "metric": "degree",
+    "difference": -0.47253333333333336,
+    "ci95": 0.233753948257752
+  },
+  {
+    "case": "users_50",
+    "baseline": "Rolling-GRCS",
+    "metric": "failure",
+    "difference": 0.0012333333333333332,
+    "ci95": 0.0009135486359891039
+  },
+  {
+    "case": "users_50",
+    "baseline": "Rolling-GRCS",
+    "metric": "goodput",
+    "difference": 0.6219198771138125,
+    "ci95": 0.5498292596489653
+  },
+  {
+    "case": "users_50",
+    "baseline": "Rolling-GRCS",
+    "metric": "rf",
+    "difference": -0.018845500000000036,
+    "ci95": 0.008471900204510783
+  },
+  {
+    "case": "users_50",
+    "baseline": "Rolling-GRCS",
+    "metric": "queue",
+    "difference": -0.7669097368846962,
+    "ci95": 1.2675572637850445
+  },
+  {
+    "case": "users_50",
+    "baseline": "Rolling-GRCS",
+    "metric": "degree",
+    "difference": -0.47253333333333336,
+    "ci95": 0.233753948257752
+  },
+  {
+    "case": "users_50",
+    "baseline": "ACI-d2",
+    "metric": "failure",
+    "difference": 0.0014666666666666665,
+    "ci95": 0.0013262178843246486
+  },
+  {
+    "case": "users_50",
+    "baseline": "ACI-d2",
+    "metric": "goodput",
+    "difference": 0.9755777612478482,
+    "ci95": 0.49749698623634636
+  },
+  {
+    "case": "users_50",
+    "baseline": "ACI-d2",
+    "metric": "rf",
+    "difference": -0.017010666666666674,
+    "ci95": 0.00817711357268202
+  },
+  {
+    "case": "users_50",
+    "baseline": "ACI-d2",
+    "metric": "queue",
+    "difference": -2.247254536285085,
+    "ci95": 1.3579225085367816
+  },
+  {
+    "case": "users_50",
+    "baseline": "ACI-d2",
+    "metric": "degree",
+    "difference": -0.47253333333333336,
+    "ci95": 0.233753948257752
+  },
+  {
+    "case": "users_50",
+    "baseline": "ACI-Full",
+    "metric": "failure",
+    "difference": 0.005333333333333333,
+    "ci95": 0.0011352600321896354
+  },
+  {
+    "case": "users_50",
+    "baseline": "ACI-Full",
+    "metric": "goodput",
+    "difference": 10.120642029975496,
+    "ci95": 1.4619326528166992
+  },
+  {
+    "case": "users_50",
+    "baseline": "ACI-Full",
+    "metric": "rf",
+    "difference": -0.02302316666666666,
+    "ci95": 0.008878660531809137
+  },
+  {
+    "case": "users_50",
+    "baseline": "ACI-Full",
+    "metric": "queue",
+    "difference": -26.143091953051577,
+    "ci95": 3.8558901336319105
+  },
+  {
+    "case": "users_50",
+    "baseline": "ACI-Full",
+    "metric": "degree",
+    "difference": -4.472533333333333,
+    "ci95": 0.233753948257752
+  },
+  {
+    "case": "users_50",
+    "baseline": "Nominal",
+    "metric": "failure",
+    "difference": -0.9861666666666666,
+    "ci95": 0.0021186650666165647
+  },
+  {
+    "case": "users_50",
+    "baseline": "Nominal",
+    "metric": "goodput",
+    "difference": 41.40153855115415,
+    "ci95": 1.9809472604017664
+  },
+  {
+    "case": "users_50",
+    "baseline": "Nominal",
+    "metric": "rf",
+    "difference": -0.02400450000000002,
+    "ci95": 0.009697690286796547
+  },
+  {
+    "case": "users_50",
+    "baseline": "Nominal",
+    "metric": "queue",
+    "difference": -112.7620856472893,
+    "ci95": 6.373751917517751
+  },
+  {
+    "case": "users_50",
+    "baseline": "Nominal",
+    "metric": "degree",
+    "difference": -0.47253333333333336,
+    "ci95": 0.233753948257752
+  },
+  {
+    "case": "users_50",
+    "baseline": "PF-Power",
+    "metric": "failure",
+    "difference": 0.0010999999999999998,
+    "ci95": 0.0016674620133199168
+  },
+  {
+    "case": "users_50",
+    "baseline": "PF-Power",
+    "metric": "goodput",
+    "difference": 20.828215287315807,
+    "ci95": 0.7572911923335298
+  },
+  {
+    "case": "users_50",
+    "baseline": "PF-Power",
+    "metric": "rf",
+    "difference": -0.00015883333333335247,
+    "ci95": 0.007892175563935747
+  },
+  {
+    "case": "users_50",
+    "baseline": "PF-Power",
+    "metric": "queue",
+    "difference": -45.160894709521116,
+    "ci95": 2.546692172426359
+  },
+  {
+    "case": "users_50",
+    "baseline": "PF-Power",
+    "metric": "degree",
+    "difference": -0.47253333333333336,
+    "ci95": 0.233753948257752
+  },
+  {
+    "case": "users_100",
+    "baseline": "Frozen-GRCS",
+    "metric": "failure",
+    "difference": -0.014900000000000002,
+    "ci95": 0.003035106394310491
+  },
+  {
+    "case": "users_100",
+    "baseline": "Frozen-GRCS",
+    "metric": "goodput",
+    "difference": -6.260862709466702,
+    "ci95": 0.8709668914068378
+  },
+  {
+    "case": "users_100",
+    "baseline": "Frozen-GRCS",
+    "metric": "rf",
+    "difference": -0.007713166666666649,
+    "ci95": 0.004896024901228049
+  },
+  {
+    "case": "users_100",
+    "baseline": "Frozen-GRCS",
+    "metric": "queue",
+    "difference": 5.667250782939831,
+    "ci95": 1.2706648802937122
+  },
+  {
+    "case": "users_100",
+    "baseline": "Frozen-GRCS",
+    "metric": "degree",
+    "difference": -0.6302,
+    "ci95": 0.22714562383056278
+  },
+  {
+    "case": "users_100",
+    "baseline": "Rolling-GRCS",
+    "metric": "failure",
+    "difference": 0.0005333333333333334,
+    "ci95": 0.0007302162409848487
+  },
+  {
+    "case": "users_100",
+    "baseline": "Rolling-GRCS",
+    "metric": "goodput",
+    "difference": 1.399461079647169,
+    "ci95": 0.6235269898849637
+  },
+  {
+    "case": "users_100",
+    "baseline": "Rolling-GRCS",
+    "metric": "rf",
+    "difference": -0.007630999999999976,
+    "ci95": 0.0048254697093764905
+  },
+  {
+    "case": "users_100",
+    "baseline": "Rolling-GRCS",
+    "metric": "queue",
+    "difference": -1.1634832479317623,
+    "ci95": 1.077041763953117
+  },
+  {
+    "case": "users_100",
+    "baseline": "Rolling-GRCS",
+    "metric": "degree",
+    "difference": -0.6302,
+    "ci95": 0.22714562383056278
+  },
+  {
+    "case": "users_100",
+    "baseline": "ACI-d2",
+    "metric": "failure",
+    "difference": 0.0011,
+    "ci95": 0.0006058544901257436
+  },
+  {
+    "case": "users_100",
+    "baseline": "ACI-d2",
+    "metric": "goodput",
+    "difference": 1.9731036978343468,
+    "ci95": 0.5719844219443664
+  },
+  {
+    "case": "users_100",
+    "baseline": "ACI-d2",
+    "metric": "rf",
+    "difference": -0.005917333333333319,
+    "ci95": 0.005072555777873417
+  },
+  {
+    "case": "users_100",
+    "baseline": "ACI-d2",
+    "metric": "queue",
+    "difference": -2.2307699989127996,
+    "ci95": 0.9842080173803067
+  },
+  {
+    "case": "users_100",
+    "baseline": "ACI-d2",
+    "metric": "degree",
+    "difference": -0.6302,
+    "ci95": 0.22714562383056278
+  },
+  {
+    "case": "users_100",
+    "baseline": "ACI-Full",
+    "metric": "failure",
+    "difference": 0.0022,
+    "ci95": 0.0006763158223040438
+  },
+  {
+    "case": "users_100",
+    "baseline": "ACI-Full",
+    "metric": "goodput",
+    "difference": 15.584385642432357,
+    "ci95": 1.3230889506626413
+  },
+  {
+    "case": "users_100",
+    "baseline": "ACI-Full",
+    "metric": "rf",
+    "difference": -0.004367500000000002,
+    "ci95": 0.004985174557777672
+  },
+  {
+    "case": "users_100",
+    "baseline": "ACI-Full",
+    "metric": "queue",
+    "difference": -20.396880937762724,
+    "ci95": 2.087396953980599
+  },
+  {
+    "case": "users_100",
+    "baseline": "ACI-Full",
+    "metric": "degree",
+    "difference": -4.6302,
+    "ci95": 0.22714562383056278
+  },
+  {
+    "case": "users_100",
+    "baseline": "Nominal",
+    "metric": "failure",
+    "difference": -0.9910000000000002,
+    "ci95": 0.0016366778050388381
+  },
+  {
+    "case": "users_100",
+    "baseline": "Nominal",
+    "metric": "goodput",
+    "difference": 61.819302152889534,
+    "ci95": 2.926102286628933
+  },
+  {
+    "case": "users_100",
+    "baseline": "Nominal",
+    "metric": "rf",
+    "difference": -0.007920000000000005,
+    "ci95": 0.004898093409393941
+  },
+  {
+    "case": "users_100",
+    "baseline": "Nominal",
+    "metric": "queue",
+    "difference": -86.46482893011135,
+    "ci95": 4.307116547754543
+  },
+  {
+    "case": "users_100",
+    "baseline": "Nominal",
+    "metric": "degree",
+    "difference": -0.6302,
+    "ci95": 0.22714562383056278
+  },
+  {
+    "case": "users_100",
+    "baseline": "PF-Power",
+    "metric": "failure",
+    "difference": 0.0012000000000000001,
+    "ci95": 0.0010375643945362224
+  },
+  {
+    "case": "users_100",
+    "baseline": "PF-Power",
+    "metric": "goodput",
+    "difference": 48.54537931933452,
+    "ci95": 1.2927192498029638
+  },
+  {
+    "case": "users_100",
+    "baseline": "PF-Power",
+    "metric": "rf",
+    "difference": -0.006075833333333347,
+    "ci95": 0.005153935144670948
+  },
+  {
+    "case": "users_100",
+    "baseline": "PF-Power",
+    "metric": "queue",
+    "difference": -61.904114753294934,
+    "ci95": 2.1809069583655294
+  },
+  {
+    "case": "users_100",
+    "baseline": "PF-Power",
+    "metric": "degree",
+    "difference": -0.6302,
+    "ci95": 0.22714562383056278
+  },
+  {
+    "case": "eta_0.1",
+    "baseline": "ACI-d2",
+    "metric": "failure",
+    "difference": 0.0010000000000000005,
+    "ci95": 0.001777318522138146
+  },
+  {
+    "case": "eta_0.1",
+    "baseline": "ACI-d2",
+    "metric": "goodput",
+    "difference": -0.5725754020516071,
+    "ci95": 0.37920550744124426
+  },
+  {
+    "case": "eta_0.1",
+    "baseline": "ACI-d2",
+    "metric": "rf",
+    "difference": -0.060019666666666624,
+    "ci95": 0.029261047614494277
+  },
+  {
+    "case": "eta_0.1",
+    "baseline": "ACI-d2",
+    "metric": "queue",
+    "difference": 1.849189564592954,
+    "ci95": 2.087081570371291
+  },
+  {
+    "case": "eta_0.1",
+    "baseline": "ACI-d2",
+    "metric": "degree",
+    "difference": -0.19026666666666664,
+    "ci95": 0.44500130188954307
+  },
+  {
+    "case": "eta_0.1",
+    "baseline": "ACI-Full",
+    "metric": "failure",
+    "difference": 0.0027999999999999995,
+    "ci95": 0.0023797491952543674
+  },
+  {
+    "case": "eta_0.1",
+    "baseline": "ACI-Full",
+    "metric": "goodput",
+    "difference": 3.364329508909413,
+    "ci95": 0.6537572574263408
+  },
+  {
+    "case": "eta_0.1",
+    "baseline": "ACI-Full",
+    "metric": "rf",
+    "difference": -0.12878383333333326,
+    "ci95": 0.03220664502592706
+  },
+  {
+    "case": "eta_0.1",
+    "baseline": "ACI-Full",
+    "metric": "queue",
+    "difference": -18.839967111660027,
+    "ci95": 3.925163630815274
+  },
+  {
+    "case": "eta_0.1",
+    "baseline": "ACI-Full",
+    "metric": "degree",
+    "difference": -4.190266666666667,
+    "ci95": 0.44500130188954307
+  },
+  {
+    "case": "eta_2.0",
+    "baseline": "ACI-d2",
+    "metric": "failure",
+    "difference": 0.0013,
+    "ci95": 0.0017357769859544952
+  },
+  {
+    "case": "eta_2.0",
+    "baseline": "ACI-d2",
+    "metric": "goodput",
+    "difference": -0.6314764591355072,
+    "ci95": 0.41113178183463983
+  },
+  {
+    "case": "eta_2.0",
+    "baseline": "ACI-d2",
+    "metric": "rf",
+    "difference": -0.06453049999999998,
+    "ci95": 0.025684921405523576
+  },
+  {
+    "case": "eta_2.0",
+    "baseline": "ACI-d2",
+    "metric": "queue",
+    "difference": 2.8290322877875966,
+    "ci95": 3.0236683389452734
+  },
+  {
+    "case": "eta_2.0",
+    "baseline": "ACI-d2",
+    "metric": "degree",
+    "difference": -0.29616666666666663,
+    "ci95": 0.3990923724511283
+  },
+  {
+    "case": "eta_2.0",
+    "baseline": "ACI-Full",
+    "metric": "failure",
+    "difference": 0.003333333333333334,
+    "ci95": 0.002681336966871563
+  },
+  {
+    "case": "eta_2.0",
+    "baseline": "ACI-Full",
+    "metric": "goodput",
+    "difference": 3.3064340653313558,
+    "ci95": 0.6473776608618202
+  },
+  {
+    "case": "eta_2.0",
+    "baseline": "ACI-Full",
+    "metric": "rf",
+    "difference": -0.1397213333333333,
+    "ci95": 0.02721784251174814
+  },
+  {
+    "case": "eta_2.0",
+    "baseline": "ACI-Full",
+    "metric": "queue",
+    "difference": -17.82153608800017,
+    "ci95": 3.6296458855994946
+  },
+  {
+    "case": "eta_2.0",
+    "baseline": "ACI-Full",
+    "metric": "degree",
+    "difference": -4.296166666666666,
+    "ci95": 0.3990923724511283
+  },
+  {
+    "case": "eta_10.0",
+    "baseline": "ACI-d2",
+    "metric": "failure",
+    "difference": 0.002366666666666667,
+    "ci95": 0.002005930533765457
+  },
+  {
+    "case": "eta_10.0",
+    "baseline": "ACI-d2",
+    "metric": "goodput",
+    "difference": -0.5106124248849234,
+    "ci95": 0.3589800574656026
+  },
+  {
+    "case": "eta_10.0",
+    "baseline": "ACI-d2",
+    "metric": "rf",
+    "difference": -0.06346650000000001,
+    "ci95": 0.01905050871264685
+  },
+  {
+    "case": "eta_10.0",
+    "baseline": "ACI-d2",
+    "metric": "queue",
+    "difference": 1.654901925212858,
+    "ci95": 1.6549026484609513
+  },
+  {
+    "case": "eta_10.0",
+    "baseline": "ACI-d2",
+    "metric": "degree",
+    "difference": -0.4858666666666667,
+    "ci95": 0.17290721411757376
+  },
+  {
+    "case": "eta_10.0",
+    "baseline": "ACI-Full",
+    "metric": "failure",
+    "difference": 0.004033333333333333,
+    "ci95": 0.0027544423500878027
+  },
+  {
+    "case": "eta_10.0",
+    "baseline": "ACI-Full",
+    "metric": "goodput",
+    "difference": 3.4055381693592253,
+    "ci95": 0.5601209391509915
+  },
+  {
+    "case": "eta_10.0",
+    "baseline": "ACI-Full",
+    "metric": "rf",
+    "difference": -0.1499265,
+    "ci95": 0.024042033225972217
+  },
+  {
+    "case": "eta_10.0",
+    "baseline": "ACI-Full",
+    "metric": "queue",
+    "difference": -18.805385721605425,
+    "ci95": 4.365270545070023
+  },
+  {
+    "case": "eta_10.0",
+    "baseline": "ACI-Full",
+    "metric": "degree",
+    "difference": -4.485866666666667,
+    "ci95": 0.17290721411757376
+  },
+  {
+    "case": "gamma_0.005",
+    "baseline": "ACI-d2",
+    "metric": "failure",
+    "difference": 0.0048000000000000004,
+    "ci95": 0.002465801269640291
+  },
+  {
+    "case": "gamma_0.005",
+    "baseline": "ACI-d2",
+    "metric": "goodput",
+    "difference": 0.08139750492746031,
+    "ci95": 0.23177905771411303
+  },
+  {
+    "case": "gamma_0.005",
+    "baseline": "ACI-d2",
+    "metric": "rf",
+    "difference": -0.020607666666666646,
+    "ci95": 0.02053309127297954
+  },
+  {
+    "case": "gamma_0.005",
+    "baseline": "ACI-d2",
+    "metric": "queue",
+    "difference": -3.055347671077192,
+    "ci95": 1.139334920702035
+  },
+  {
+    "case": "gamma_0.005",
+    "baseline": "ACI-d2",
+    "metric": "degree",
+    "difference": -0.09013333333333336,
+    "ci95": 0.16008753781599308
+  },
+  {
+    "case": "gamma_0.05",
+    "baseline": "ACI-d2",
+    "metric": "failure",
+    "difference": 0.0009333333333333338,
+    "ci95": 0.002207884619829947
+  },
+  {
+    "case": "gamma_0.05",
+    "baseline": "ACI-d2",
+    "metric": "goodput",
+    "difference": -0.7620999674874909,
+    "ci95": 0.3910678661586671
+  },
+  {
+    "case": "gamma_0.05",
+    "baseline": "ACI-d2",
+    "metric": "rf",
+    "difference": -0.09269883333333331,
+    "ci95": 0.012038330913120864
+  },
+  {
+    "case": "gamma_0.05",
+    "baseline": "ACI-d2",
+    "metric": "queue",
+    "difference": 4.8314877539539385,
+    "ci95": 1.6905105690272297
+  },
+  {
+    "case": "gamma_0.05",
+    "baseline": "ACI-d2",
+    "metric": "degree",
+    "difference": -0.6478666666666667,
+    "ci95": 0.15085396331641868
+  },
+  {
+    "case": "correlation95",
+    "baseline": "Frozen-GRCS",
+    "metric": "failure",
+    "difference": -0.11923333333333333,
+    "ci95": 0.014995366030497378
+  },
+  {
+    "case": "correlation95",
+    "baseline": "Frozen-GRCS",
+    "metric": "goodput",
+    "difference": -4.467057766701893,
+    "ci95": 0.49618157536992114
+  },
+  {
+    "case": "correlation95",
+    "baseline": "Frozen-GRCS",
+    "metric": "rf",
+    "difference": -0.07719149999999997,
+    "ci95": 0.014984669604697765
+  },
+  {
+    "case": "correlation95",
+    "baseline": "Frozen-GRCS",
+    "metric": "queue",
+    "difference": 20.428685057317985,
+    "ci95": 2.014173941375746
+  },
+  {
+    "case": "correlation95",
+    "baseline": "Frozen-GRCS",
+    "metric": "degree",
+    "difference": -0.5071333333333333,
+    "ci95": 0.15221191580037244
+  },
+  {
+    "case": "correlation95",
+    "baseline": "Rolling-GRCS",
+    "metric": "failure",
+    "difference": -0.0024333333333333334,
+    "ci95": 0.0032110986434121763
+  },
+  {
+    "case": "correlation95",
+    "baseline": "Rolling-GRCS",
+    "metric": "goodput",
+    "difference": -0.6484343371006467,
+    "ci95": 0.4482007876865868
+  },
+  {
+    "case": "correlation95",
+    "baseline": "Rolling-GRCS",
+    "metric": "rf",
+    "difference": -0.08498933333333332,
+    "ci95": 0.015228000441565448
+  },
+  {
+    "case": "correlation95",
+    "baseline": "Rolling-GRCS",
+    "metric": "queue",
+    "difference": 3.8537979230998523,
+    "ci95": 1.8951572670041794
+  },
+  {
+    "case": "correlation95",
+    "baseline": "Rolling-GRCS",
+    "metric": "degree",
+    "difference": -0.5071333333333333,
+    "ci95": 0.15221191580037244
+  },
+  {
+    "case": "correlation95",
+    "baseline": "ACI-d2",
+    "metric": "failure",
+    "difference": 0.002766666666666667,
+    "ci95": 0.0027072476044536042
+  },
+  {
+    "case": "correlation95",
+    "baseline": "ACI-d2",
+    "metric": "goodput",
+    "difference": -0.6854419197250309,
+    "ci95": 0.31965895107946396
+  },
+  {
+    "case": "correlation95",
+    "baseline": "ACI-d2",
+    "metric": "rf",
+    "difference": -0.078026,
+    "ci95": 0.014704926083877438
+  },
+  {
+    "case": "correlation95",
+    "baseline": "ACI-d2",
+    "metric": "queue",
+    "difference": 2.9304453013349274,
+    "ci95": 1.7728127747850393
+  },
+  {
+    "case": "correlation95",
+    "baseline": "ACI-d2",
+    "metric": "degree",
+    "difference": -0.5071333333333333,
+    "ci95": 0.15221191580037244
+  },
+  {
+    "case": "correlation95",
+    "baseline": "ACI-Full",
+    "metric": "failure",
+    "difference": 0.0057666666666666665,
+    "ci95": 0.0029010063461223806
+  },
+  {
+    "case": "correlation95",
+    "baseline": "ACI-Full",
+    "metric": "goodput",
+    "difference": 2.9425460906586474,
+    "ci95": 0.6083335469282048
+  },
+  {
+    "case": "correlation95",
+    "baseline": "ACI-Full",
+    "metric": "rf",
+    "difference": -0.14734116666666663,
+    "ci95": 0.017161607883529155
+  },
+  {
+    "case": "correlation95",
+    "baseline": "ACI-Full",
+    "metric": "queue",
+    "difference": -15.326188750490601,
+    "ci95": 4.025168478534356
+  },
+  {
+    "case": "correlation95",
+    "baseline": "ACI-Full",
+    "metric": "degree",
+    "difference": -4.507133333333333,
+    "ci95": 0.15221191580037244
+  },
+  {
+    "case": "correlation95",
+    "baseline": "Nominal",
+    "metric": "failure",
+    "difference": -0.9749000000000001,
+    "ci95": 0.00401697578034137
+  },
+  {
+    "case": "correlation95",
+    "baseline": "Nominal",
+    "metric": "goodput",
+    "difference": 16.780526068558835,
+    "ci95": 1.7738755412738183
+  },
+  {
+    "case": "correlation95",
+    "baseline": "Nominal",
+    "metric": "rf",
+    "difference": -0.1378931666666666,
+    "ci95": 0.0112438319833689
+  },
+  {
+    "case": "correlation95",
+    "baseline": "Nominal",
+    "metric": "queue",
+    "difference": -104.41226273420793,
+    "ci95": 10.672874242904856
+  },
+  {
+    "case": "correlation95",
+    "baseline": "Nominal",
+    "metric": "degree",
+    "difference": -0.5071333333333333,
+    "ci95": 0.15221191580037244
+  },
+  {
+    "case": "correlation95",
+    "baseline": "PF-Power",
+    "metric": "failure",
+    "difference": 0.0024999999999999996,
+    "ci95": 0.0020856058531801593
+  },
+  {
+    "case": "correlation95",
+    "baseline": "PF-Power",
+    "metric": "goodput",
+    "difference": 1.9825832664568779,
+    "ci95": 0.7205553927750994
+  },
+  {
+    "case": "correlation95",
+    "baseline": "PF-Power",
+    "metric": "rf",
+    "difference": -0.00894216666666665,
+    "ci95": 0.017405082663620473
+  },
+  {
+    "case": "correlation95",
+    "baseline": "PF-Power",
+    "metric": "queue",
+    "difference": -11.036190287952914,
+    "ci95": 3.6078024829829287
+  },
+  {
+    "case": "correlation95",
+    "baseline": "PF-Power",
+    "metric": "degree",
+    "difference": -0.5071333333333333,
+    "ci95": 0.15221191580037244
+  },
+  {
+    "case": "budget",
+    "baseline": "A-GRCS-Budget",
+    "metric": "failure",
+    "difference": 0.0006666666666666666,
+    "ci95": 0.0024627247852611997
+  },
+  {
+    "case": "budget",
+    "baseline": "A-GRCS-Budget",
+    "metric": "goodput",
+    "difference": 0.6929820378949785,
+    "ci95": 0.25880422360052846
+  },
+  {
+    "case": "budget",
+    "baseline": "A-GRCS-Budget",
+    "metric": "rf",
+    "difference": 0.08291866666666661,
+    "ci95": 0.015200373583953736
+  },
+  {
+    "case": "budget",
+    "baseline": "A-GRCS-Budget",
+    "metric": "queue",
+    "difference": -6.021026374053695,
+    "ci95": 2.0049764992077983
+  },
+  {
+    "case": "budget",
+    "baseline": "A-GRCS-Budget",
+    "metric": "degree",
+    "difference": 0.04206666666666672,
+    "ci95": 0.2612024554780505
+  },
+  {
+    "case": "unit_scale",
+    "baseline": "Frozen-GRCS",
+    "metric": "failure",
+    "difference": -0.3143,
+    "ci95": 0.009766814045808522
+  },
+  {
+    "case": "unit_scale",
+    "baseline": "Frozen-GRCS",
+    "metric": "goodput",
+    "difference": -5.856984277836659,
+    "ci95": 0.6955353289008305
+  },
+  {
+    "case": "unit_scale",
+    "baseline": "Frozen-GRCS",
+    "metric": "rf",
+    "difference": -0.06504633333333329,
+    "ci95": 0.011042937082434848
+  },
+  {
+    "case": "unit_scale",
+    "baseline": "Frozen-GRCS",
+    "metric": "queue",
+    "difference": 26.42865133275909,
+    "ci95": 3.9295507684867217
+  },
+  {
+    "case": "unit_scale",
+    "baseline": "Frozen-GRCS",
+    "metric": "degree",
+    "difference": -0.6305,
+    "ci95": 0.07431387234437996
+  },
+  {
+    "case": "unit_scale",
+    "baseline": "ACI-d2",
+    "metric": "failure",
+    "difference": 0.007233333333333332,
+    "ci95": 0.0032032191182710806
+  },
+  {
+    "case": "unit_scale",
+    "baseline": "ACI-d2",
+    "metric": "goodput",
+    "difference": 0.35225718298763836,
+    "ci95": 0.2486820996788031
+  },
+  {
+    "case": "unit_scale",
+    "baseline": "ACI-d2",
+    "metric": "rf",
+    "difference": -0.0729445,
+    "ci95": 0.008856436691443172
+  },
+  {
+    "case": "unit_scale",
+    "baseline": "ACI-d2",
+    "metric": "queue",
+    "difference": -0.7111739498364031,
+    "ci95": 1.7294970457425825
+  },
+  {
+    "case": "unit_scale",
+    "baseline": "ACI-d2",
+    "metric": "degree",
+    "difference": -0.6305,
+    "ci95": 0.07431387234437996
+  },
+  {
+    "case": "reference2",
+    "baseline": "Frozen-GRCS",
+    "metric": "failure",
+    "difference": -0.024366666666666665,
+    "ci95": 0.006653393727375271
+  },
+  {
+    "case": "reference2",
+    "baseline": "Frozen-GRCS",
+    "metric": "goodput",
+    "difference": -3.949439473651361,
+    "ci95": 0.33537330700162626
+  },
+  {
+    "case": "reference2",
+    "baseline": "Frozen-GRCS",
+    "metric": "rf",
+    "difference": -0.05132666666666665,
+    "ci95": 0.022190332432042374
+  },
+  {
+    "case": "reference2",
+    "baseline": "Frozen-GRCS",
+    "metric": "queue",
+    "difference": 16.942805753515426,
+    "ci95": 2.4966557396409903
+  },
+  {
+    "case": "reference2",
+    "baseline": "Frozen-GRCS",
+    "metric": "degree",
+    "difference": -0.3293666666666667,
+    "ci95": 0.207383186975528
+  },
+  {
+    "case": "reference2",
+    "baseline": "ACI-d2",
+    "metric": "failure",
+    "difference": 0.0006666666666666666,
+    "ci95": 0.0005731680010521117
+  },
+  {
+    "case": "reference2",
+    "baseline": "ACI-d2",
+    "metric": "goodput",
+    "difference": -0.12094636904879578,
+    "ci95": 0.25746965245249487
+  },
+  {
+    "case": "reference2",
+    "baseline": "ACI-d2",
+    "metric": "rf",
+    "difference": -0.051429999999999955,
+    "ci95": 0.021799908613502818
+  },
+  {
+    "case": "reference2",
+    "baseline": "ACI-d2",
+    "metric": "queue",
+    "difference": -0.061247426812786186,
+    "ci95": 1.2136759323588053
+  },
+  {
+    "case": "reference2",
+    "baseline": "ACI-d2",
+    "metric": "degree",
+    "difference": -0.3293666666666667,
+    "ci95": 0.207383186975528
+  },
+  {
+    "case": "no_overhead",
+    "baseline": "ACI-d2",
+    "metric": "failure",
+    "difference": 0.0016333333333333332,
+    "ci95": 0.0018723525525697288
+  },
+  {
+    "case": "no_overhead",
+    "baseline": "ACI-d2",
+    "metric": "goodput",
+    "difference": -0.605479546261661,
+    "ci95": 0.48875648995130483
+  },
+  {
+    "case": "no_overhead",
+    "baseline": "ACI-d2",
+    "metric": "rf",
+    "difference": -0.0535648333333333,
+    "ci95": 0.02909007738520927
+  },
+  {
+    "case": "no_overhead",
+    "baseline": "ACI-d2",
+    "metric": "queue",
+    "difference": -0.1783029993410601,
+    "ci95": 2.558731899980099
+  },
+  {
+    "case": "no_overhead",
+    "baseline": "ACI-d2",
+    "metric": "degree",
+    "difference": -0.1875333333333333,
+    "ci95": 0.32913365464298827
+  },
+  {
+    "case": "no_overhead",
+    "baseline": "ACI-Full",
+    "metric": "failure",
+    "difference": 0.0026000000000000003,
+    "ci95": 0.0025726340271722144
+  },
+  {
+    "case": "no_overhead",
+    "baseline": "ACI-Full",
+    "metric": "goodput",
+    "difference": 1.56700428417507,
+    "ci95": 0.4695391531841568
+  },
+  {
+    "case": "no_overhead",
+    "baseline": "ACI-Full",
+    "metric": "rf",
+    "difference": -0.12267883333333326,
+    "ci95": 0.023101970517980953
+  },
+  {
+    "case": "no_overhead",
+    "baseline": "ACI-Full",
+    "metric": "queue",
+    "difference": -8.294559857314074,
+    "ci95": 2.7994035939781257
+  },
+  {
+    "case": "no_overhead",
+    "baseline": "ACI-Full",
+    "metric": "degree",
+    "difference": -4.187533333333333,
+    "ci95": 0.32913365464298827
+  },
+  {
+    "case": "ack_abrupt",
+    "baseline": "A-GRCS-ACK",
+    "metric": "failure",
+    "difference": -0.07666666666666666,
+    "ci95": 0.0036614487067348515
+  },
+  {
+    "case": "ack_abrupt",
+    "baseline": "A-GRCS-ACK",
+    "metric": "goodput",
+    "difference": -3.7061772641709467,
+    "ci95": 0.5828467588228372
+  },
+  {
+    "case": "ack_abrupt",
+    "baseline": "A-GRCS-ACK",
+    "metric": "rf",
+    "difference": -0.05112750000000001,
+    "ci95": 0.026197525549009067
+  },
+  {
+    "case": "ack_abrupt",
+    "baseline": "A-GRCS-ACK",
+    "metric": "queue",
+    "difference": 22.719439764776727,
+    "ci95": 3.13150342420345
+  },
+  {
+    "case": "ack_abrupt",
+    "baseline": "A-GRCS-ACK",
+    "metric": "degree",
+    "difference": -0.6306333333333332,
+    "ci95": 0.22282517974045513
+  },
+  {
+    "case": "ack_abrupt",
+    "baseline": "Frozen-GRCS",
+    "metric": "failure",
+    "difference": -0.11646666666666668,
+    "ci95": 0.016912079977499276
+  },
+  {
+    "case": "ack_abrupt",
+    "baseline": "Frozen-GRCS",
+    "metric": "goodput",
+    "difference": -4.633622620011757,
+    "ci95": 0.5210193750258547
+  },
+  {
+    "case": "ack_abrupt",
+    "baseline": "Frozen-GRCS",
+    "metric": "rf",
+    "difference": -0.05554366666666667,
+    "ci95": 0.0187401471438839
+  },
+  {
+    "case": "ack_abrupt",
+    "baseline": "Frozen-GRCS",
+    "metric": "queue",
+    "difference": 20.628726401312537,
+    "ci95": 1.957165466510674
+  },
+  {
+    "case": "ack_abrupt",
+    "baseline": "Frozen-GRCS",
+    "metric": "degree",
+    "difference": -0.37366666666666665,
+    "ci95": 0.1515043688467034
+  },
+  {
+    "case": "ack_abrupt",
+    "baseline": "DDQN-Match",
+    "metric": "failure",
+    "difference": -0.06496666666666666,
+    "ci95": 0.03533181374351231
+  },
+  {
+    "case": "ack_abrupt",
+    "baseline": "DDQN-Match",
+    "metric": "goodput",
+    "difference": -2.5133926948681933,
+    "ci95": 0.9773527909901129
+  },
+  {
+    "case": "ack_abrupt",
+    "baseline": "DDQN-Match",
+    "metric": "rf",
+    "difference": -0.016511166666666705,
+    "ci95": 0.023338608087098478
+  },
+  {
+    "case": "ack_abrupt",
+    "baseline": "DDQN-Match",
+    "metric": "queue",
+    "difference": 4.780023819674714,
+    "ci95": 3.4630260351830477
+  },
+  {
+    "case": "ack_abrupt",
+    "baseline": "DDQN-Match",
+    "metric": "degree",
+    "difference": -0.14999999999999997,
+    "ci95": 0.3090076262076724
+  },
+  {
+    "case": "ack_interference",
+    "baseline": "A-GRCS-ACK",
+    "metric": "failure",
+    "difference": -0.08333333333333334,
+    "ci95": 0.0018572765957217462
+  },
+  {
+    "case": "ack_interference",
+    "baseline": "A-GRCS-ACK",
+    "metric": "goodput",
+    "difference": -5.058950230279411,
+    "ci95": 0.619186768876921
+  },
+  {
+    "case": "ack_interference",
+    "baseline": "A-GRCS-ACK",
+    "metric": "rf",
+    "difference": -0.028895499999999998,
+    "ci95": 0.02129560150621094
+  },
+  {
+    "case": "ack_interference",
+    "baseline": "A-GRCS-ACK",
+    "metric": "queue",
+    "difference": 26.133933914477684,
+    "ci95": 3.728396319713714
+  },
+  {
+    "case": "ack_interference",
+    "baseline": "A-GRCS-ACK",
+    "metric": "degree",
+    "difference": -0.5729666666666666,
+    "ci95": 0.37270177777023783
+  },
+  {
+    "case": "ack_interference",
+    "baseline": "Frozen-GRCS",
+    "metric": "failure",
+    "difference": -0.5653666666666667,
+    "ci95": 0.016481579783705125
+  },
+  {
+    "case": "ack_interference",
+    "baseline": "Frozen-GRCS",
+    "metric": "goodput",
+    "difference": -9.873085708563348,
+    "ci95": 0.9356169295481019
+  },
+  {
+    "case": "ack_interference",
+    "baseline": "Frozen-GRCS",
+    "metric": "rf",
+    "difference": -0.06809683333333333,
+    "ci95": 0.007961505976528557
+  },
+  {
+    "case": "ack_interference",
+    "baseline": "Frozen-GRCS",
+    "metric": "queue",
+    "difference": 41.329479393905935,
+    "ci95": 4.9174542074467
+  },
+  {
+    "case": "ack_interference",
+    "baseline": "Frozen-GRCS",
+    "metric": "degree",
+    "difference": -0.46160000000000007,
+    "ci95": 0.1140275151647909
+  },
+  {
+    "case": "ack_load",
+    "baseline": "A-GRCS-ACK",
+    "metric": "failure",
+    "difference": -0.07796666666666667,
+    "ci95": 0.0031583305200031738
+  },
+  {
+    "case": "ack_load",
+    "baseline": "A-GRCS-ACK",
+    "metric": "goodput",
+    "difference": -6.0822886397214555,
+    "ci95": 0.9303455620336479
+  },
+  {
+    "case": "ack_load",
+    "baseline": "A-GRCS-ACK",
+    "metric": "rf",
+    "difference": -0.052310500000000024,
+    "ci95": 0.019503507994509707
+  },
+  {
+    "case": "ack_load",
+    "baseline": "A-GRCS-ACK",
+    "metric": "queue",
+    "difference": 33.21080255150344,
+    "ci95": 4.405722519506217
+  },
+  {
+    "case": "ack_load",
+    "baseline": "A-GRCS-ACK",
+    "metric": "degree",
+    "difference": -0.4632666666666667,
+    "ci95": 0.4747012594706527
+  },
+  {
+    "case": "ack_load",
+    "baseline": "Frozen-GRCS",
+    "metric": "failure",
+    "difference": -0.09056666666666666,
+    "ci95": 0.012461043673625483
+  },
+  {
+    "case": "ack_load",
+    "baseline": "Frozen-GRCS",
+    "metric": "goodput",
+    "difference": -6.507498216727242,
+    "ci95": 0.5850921160322253
+  },
+  {
+    "case": "ack_load",
+    "baseline": "Frozen-GRCS",
+    "metric": "rf",
+    "difference": -0.05362583333333332,
+    "ci95": 0.02000079749135898
+  },
+  {
+    "case": "ack_load",
+    "baseline": "Frozen-GRCS",
+    "metric": "queue",
+    "difference": 26.00287024945674,
+    "ci95": 3.0400594015412903
+  },
+  {
+    "case": "ack_load",
+    "baseline": "Frozen-GRCS",
+    "metric": "degree",
+    "difference": -0.35773333333333335,
+    "ci95": 0.42585560310316883
+  },
+  {
+    "case": "ack_load",
+    "baseline": "DDQN-Match",
+    "metric": "failure",
+    "difference": -0.16030000000000003,
+    "ci95": 0.12919682500387186
+  },
+  {
+    "case": "ack_load",
+    "baseline": "DDQN-Match",
+    "metric": "goodput",
+    "difference": -4.137386161530978,
+    "ci95": 4.00482728198842
+  },
+  {
+    "case": "ack_load",
+    "baseline": "DDQN-Match",
+    "metric": "rf",
+    "difference": -0.021041166666666687,
+    "ci95": 0.029452499399992168
+  },
+  {
+    "case": "ack_load",
+    "baseline": "DDQN-Match",
+    "metric": "queue",
+    "difference": 10.01901139487055,
+    "ci95": 23.16912747165841
+  },
+  {
+    "case": "ack_load",
+    "baseline": "DDQN-Match",
+    "metric": "degree",
+    "difference": -0.05383333333333331,
+    "ci95": 0.4300576309553715
+  },
+  {
+    "case": "frequency4",
+    "baseline": "Frozen-GRCS",
+    "metric": "failure",
+    "difference": -0.10766666666666666,
+    "ci95": 0.027479666494374663
+  },
+  {
+    "case": "frequency4",
+    "baseline": "Frozen-GRCS",
+    "metric": "goodput",
+    "difference": -5.88850807122229,
+    "ci95": 0.6829813024989072
+  },
+  {
+    "case": "frequency4",
+    "baseline": "Frozen-GRCS",
+    "metric": "rf",
+    "difference": -0.031099250000000005,
+    "ci95": 0.022975438972351332
+  },
+  {
+    "case": "frequency4",
+    "baseline": "Frozen-GRCS",
+    "metric": "queue",
+    "difference": 25.05616515542713,
+    "ci95": 3.138690320811833
+  },
+  {
+    "case": "frequency4",
+    "baseline": "Frozen-GRCS",
+    "metric": "degree",
+    "difference": -0.14383333333333334,
+    "ci95": 0.32221354979239214
+  },
+  {
+    "case": "frequency4",
+    "baseline": "Rolling-GRCS",
+    "metric": "failure",
+    "difference": 0.00020000000000000025,
+    "ci95": 0.002306956703184347
+  },
+  {
+    "case": "frequency4",
+    "baseline": "Rolling-GRCS",
+    "metric": "goodput",
+    "difference": -0.3996081204468339,
+    "ci95": 0.47493889537642725
+  },
+  {
+    "case": "frequency4",
+    "baseline": "Rolling-GRCS",
+    "metric": "rf",
+    "difference": -0.03614975000000001,
+    "ci95": 0.023309708577104307
+  },
+  {
+    "case": "frequency4",
+    "baseline": "Rolling-GRCS",
+    "metric": "queue",
+    "difference": 2.865360038642141,
+    "ci95": 2.47678850488561
+  },
+  {
+    "case": "frequency4",
+    "baseline": "Rolling-GRCS",
+    "metric": "degree",
+    "difference": -0.14383333333333334,
+    "ci95": 0.32221354979239214
+  },
+  {
+    "case": "frequency4",
+    "baseline": "ACI-d2",
+    "metric": "failure",
+    "difference": 0.0015,
+    "ci95": 0.001963916861446591
+  },
+  {
+    "case": "frequency4",
+    "baseline": "ACI-d2",
+    "metric": "goodput",
+    "difference": -0.021174453326589314,
+    "ci95": 0.5113181943368652
+  },
+  {
+    "case": "frequency4",
+    "baseline": "ACI-d2",
+    "metric": "rf",
+    "difference": -0.03572875000000003,
+    "ci95": 0.023008031102014152
+  },
+  {
+    "case": "frequency4",
+    "baseline": "ACI-d2",
+    "metric": "queue",
+    "difference": -0.010210049746177674,
+    "ci95": 2.4535665880776003
+  },
+  {
+    "case": "frequency4",
+    "baseline": "ACI-d2",
+    "metric": "degree",
+    "difference": -0.14383333333333334,
+    "ci95": 0.32221354979239214
+  },
+  {
+    "case": "frequency4",
+    "baseline": "ACI-Full",
+    "metric": "failure",
+    "difference": 0.003766666666666667,
+    "ci95": 0.0015208281029599907
+  },
+  {
+    "case": "frequency4",
+    "baseline": "ACI-Full",
+    "metric": "goodput",
+    "difference": 4.751920889354683,
+    "ci95": 0.6912656506133782
+  },
+  {
+    "case": "frequency4",
+    "baseline": "ACI-Full",
+    "metric": "rf",
+    "difference": -0.13161883333333335,
+    "ci95": 0.025542522198552926
+  },
+  {
+    "case": "frequency4",
+    "baseline": "ACI-Full",
+    "metric": "queue",
+    "difference": -23.30234278184419,
+    "ci95": 4.1732384051734535
+  },
+  {
+    "case": "frequency4",
+    "baseline": "ACI-Full",
+    "metric": "degree",
+    "difference": -4.143833333333333,
+    "ci95": 0.32221354979239214
+  },
+  {
+    "case": "frequency4",
+    "baseline": "Nominal",
+    "metric": "failure",
+    "difference": -0.986,
+    "ci95": 0.002669530053647904
+  },
+  {
+    "case": "frequency4",
+    "baseline": "Nominal",
+    "metric": "goodput",
+    "difference": 23.239067387702534,
+    "ci95": 1.048279145837005
+  },
+  {
+    "case": "frequency4",
+    "baseline": "Nominal",
+    "metric": "rf",
+    "difference": -0.09779608333333334,
+    "ci95": 0.02251484555975918
+  },
+  {
+    "case": "frequency4",
+    "baseline": "Nominal",
+    "metric": "queue",
+    "difference": -138.67149949292502,
+    "ci95": 4.0413180692829656
+  },
+  {
+    "case": "frequency4",
+    "baseline": "Nominal",
+    "metric": "degree",
+    "difference": -0.14383333333333334,
+    "ci95": 0.32221354979239214
+  },
+  {
+    "case": "frequency4",
+    "baseline": "PF-Power",
+    "metric": "failure",
+    "difference": 0.0004333333333333333,
+    "ci95": 0.0017012197290514188
+  },
+  {
+    "case": "frequency4",
+    "baseline": "PF-Power",
+    "metric": "goodput",
+    "difference": 1.2815009719088288,
+    "ci95": 0.6229362593812477
+  },
+  {
+    "case": "frequency4",
+    "baseline": "PF-Power",
+    "metric": "rf",
+    "difference": -0.013284666666666667,
+    "ci95": 0.022004351231310545
+  },
+  {
+    "case": "frequency4",
+    "baseline": "PF-Power",
+    "metric": "queue",
+    "difference": -5.8521045369409155,
+    "ci95": 3.337704674081986
+  },
+  {
+    "case": "frequency4",
+    "baseline": "PF-Power",
+    "metric": "degree",
+    "difference": -0.14383333333333334,
+    "ci95": 0.32221354979239214
+  }
+]

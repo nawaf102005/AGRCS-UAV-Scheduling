@@ -1,0 +1,210 @@
+{
+  "base": {
+    "users": 24,
+    "uavs": 6,
+    "rbs": 2,
+    "degrees": [
+      1,
+      2,
+      4
+    ],
+    "slot": 0.1,
+    "total_bw": 12000000.0,
+    "area": 1500.0,
+    "height": 100.0,
+    "powers": [
+      0.05,
+      0.1,
+      0.2,
+      0.5
+    ],
+    "alpha": 0.1,
+    "gamma": 0.02,
+    "window": 256,
+    "arrival": 0.24,
+    "eta": 0.5,
+    "initial_queue": 2.0,
+    "rf_budget": 0.35,
+    "budget_step": 0.5,
+    "handoff_cost": 0.02,
+    "reference_error": 0.5,
+    "reference_fraction": 0.025,
+    "temporal": 0.85,
+    "error_temporal": 0.7,
+    "scenario": "abrupt",
+    "slots": 3000,
+    "train_n": 500,
+    "cal_n": 1000,
+    "speed": 15.0,
+    "scale_mode": "learned"
+  },
+  "jobs": [
+    [
+      "alpha",
+      0
+    ],
+    [
+      "alpha",
+      1
+    ],
+    [
+      "alpha",
+      2
+    ],
+    [
+      "alpha",
+      3
+    ],
+    [
+      "alpha",
+      4
+    ],
+    [
+      "alpha",
+      5
+    ],
+    [
+      "alpha",
+      6
+    ],
+    [
+      "alpha",
+      7
+    ],
+    [
+      "alpha",
+      8
+    ],
+    [
+      "alpha",
+      9
+    ],
+    [
+      "union_stationary",
+      0
+    ],
+    [
+      "union_stationary",
+      1
+    ],
+    [
+      "union_stationary",
+      2
+    ],
+    [
+      "union_stationary",
+      3
+    ],
+    [
+      "union_stationary",
+      4
+    ],
+    [
+      "union_stationary",
+      5
+    ],
+    [
+      "union_stationary",
+      6
+    ],
+    [
+      "union_stationary",
+      7
+    ],
+    [
+      "union_stationary",
+      8
+    ],
+    [
+      "union_stationary",
+      9
+    ],
+    [
+      "extra_seeds",
+      10
+    ],
+    [
+      "extra_seeds",
+      11
+    ],
+    [
+      "extra_seeds",
+      12
+    ],
+    [
+      "extra_seeds",
+      13
+    ],
+    [
+      "extra_seeds",
+      14
+    ],
+    [
+      "extra_seeds",
+      15
+    ],
+    [
+      "extra_seeds",
+      16
+    ],
+    [
+      "extra_seeds",
+      17
+    ],
+    [
+      "extra_seeds",
+      18
+    ],
+    [
+      "extra_seeds",
+      19
+    ],
+    [
+      "extra_seeds",
+      20
+    ],
+    [
+      "extra_seeds",
+      21
+    ],
+    [
+      "extra_seeds",
+      22
+    ],
+    [
+      "extra_seeds",
+      23
+    ],
+    [
+      "extra_seeds",
+      24
+    ],
+    [
+      "extra_seeds",
+      25
+    ],
+    [
+      "extra_seeds",
+      26
+    ],
+    [
+      "extra_seeds",
+      27
+    ],
+    [
+      "extra_seeds",
+      28
+    ],
+    [
+      "extra_seeds",
+      29
+    ]
+  ],
+  "alpha_grid": [
+    0.05,
+    0.1,
+    0.2
+  ],
+  "new_decisions": 300000,
+  "description": "Additional fixed-config review experiments; alpha=0.1 uses retained original seeds 0--9"
+}

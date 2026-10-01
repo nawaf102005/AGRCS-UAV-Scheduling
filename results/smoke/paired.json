@@ -1,0 +1,562 @@
+[
+  {
+    "case": "stationary",
+    "baseline": "Frozen-GRCS",
+    "metric": "failure",
+    "difference": -0.004166666666666667,
+    "ci95": 0.05294251973406122
+  },
+  {
+    "case": "stationary",
+    "baseline": "Frozen-GRCS",
+    "metric": "goodput",
+    "difference": 1.563045093172942,
+    "ci95": 2.049515741595164
+  },
+  {
+    "case": "stationary",
+    "baseline": "Frozen-GRCS",
+    "metric": "rf",
+    "difference": 0.05068749999999997,
+    "ci95": 0.11673825601360555
+  },
+  {
+    "case": "stationary",
+    "baseline": "Frozen-GRCS",
+    "metric": "queue",
+    "difference": -0.325241063614913,
+    "ci95": 0.686243916909709
+  },
+  {
+    "case": "stationary",
+    "baseline": "Frozen-GRCS",
+    "metric": "degree",
+    "difference": 0.6625000000000001,
+    "ci95": 3.6530338616502256
+  },
+  {
+    "case": "stationary",
+    "baseline": "Rolling-GRCS",
+    "metric": "failure",
+    "difference": 0.0,
+    "ci95": 0.0
+  },
+  {
+    "case": "stationary",
+    "baseline": "Rolling-GRCS",
+    "metric": "goodput",
+    "difference": 1.494731736431408,
+    "ci95": 1.5557273082757241
+  },
+  {
+    "case": "stationary",
+    "baseline": "Rolling-GRCS",
+    "metric": "rf",
+    "difference": 0.048937499999999995,
+    "ci95": 0.09609067331732112
+  },
+  {
+    "case": "stationary",
+    "baseline": "Rolling-GRCS",
+    "metric": "queue",
+    "difference": -0.320018438678787,
+    "ci95": 0.12130251284632189
+  },
+  {
+    "case": "stationary",
+    "baseline": "Rolling-GRCS",
+    "metric": "degree",
+    "difference": 0.6625000000000001,
+    "ci95": 3.6530338616502256
+  },
+  {
+    "case": "stationary",
+    "baseline": "ACI-d2",
+    "metric": "failure",
+    "difference": -0.004166666666666667,
+    "ci95": 0.05294251973406122
+  },
+  {
+    "case": "stationary",
+    "baseline": "ACI-d2",
+    "metric": "goodput",
+    "difference": 1.830354533862657,
+    "ci95": 8.004161233550667
+  },
+  {
+    "case": "stationary",
+    "baseline": "ACI-d2",
+    "metric": "rf",
+    "difference": 0.041104166666666664,
+    "ci95": 0.00926494095346075
+  },
+  {
+    "case": "stationary",
+    "baseline": "ACI-d2",
+    "metric": "queue",
+    "difference": -0.4031861775836807,
+    "ci95": 2.3087955884862374
+  },
+  {
+    "case": "stationary",
+    "baseline": "ACI-d2",
+    "metric": "degree",
+    "difference": 0.6625000000000001,
+    "ci95": 3.6530338616502256
+  },
+  {
+    "case": "stationary",
+    "baseline": "ACI-Full",
+    "metric": "failure",
+    "difference": -0.004166666666666668,
+    "ci95": 0.1588275592021837
+  },
+  {
+    "case": "stationary",
+    "baseline": "ACI-Full",
+    "metric": "goodput",
+    "difference": 2.746549801198668,
+    "ci95": 6.049554086919925
+  },
+  {
+    "case": "stationary",
+    "baseline": "ACI-Full",
+    "metric": "rf",
+    "difference": -0.075125,
+    "ci95": 0.09953193710003543
+  },
+  {
+    "case": "stationary",
+    "baseline": "ACI-Full",
+    "metric": "queue",
+    "difference": -0.6739440816950368,
+    "ci95": 4.420843155815931
+  },
+  {
+    "case": "stationary",
+    "baseline": "ACI-Full",
+    "metric": "degree",
+    "difference": -3.3375,
+    "ci95": 3.6530338616502256
+  },
+  {
+    "case": "stationary",
+    "baseline": "Nominal",
+    "metric": "failure",
+    "difference": -0.9916666666666667,
+    "ci95": 0.0
+  },
+  {
+    "case": "stationary",
+    "baseline": "Nominal",
+    "metric": "goodput",
+    "difference": 28.350386460694317,
+    "ci95": 29.153736923516533
+  },
+  {
+    "case": "stationary",
+    "baseline": "Nominal",
+    "metric": "rf",
+    "difference": -0.06910416666666663,
+    "ci95": 1.06387993405596
+  },
+  {
+    "case": "stationary",
+    "baseline": "Nominal",
+    "metric": "queue",
+    "difference": -7.226652222355929,
+    "ci95": 10.31878071341475
+  },
+  {
+    "case": "stationary",
+    "baseline": "Nominal",
+    "metric": "degree",
+    "difference": 0.6625000000000001,
+    "ci95": 3.6530338616502256
+  },
+  {
+    "case": "stationary",
+    "baseline": "PF-Power",
+    "metric": "failure",
+    "difference": -0.008333333333333333,
+    "ci95": 0.0
+  },
+  {
+    "case": "stationary",
+    "baseline": "PF-Power",
+    "metric": "goodput",
+    "difference": 2.9127805366948216,
+    "ci95": 6.021105269856618
+  },
+  {
+    "case": "stationary",
+    "baseline": "PF-Power",
+    "metric": "rf",
+    "difference": 0.08385416666666665,
+    "ci95": 0.06432516147688434
+  },
+  {
+    "case": "stationary",
+    "baseline": "PF-Power",
+    "metric": "queue",
+    "difference": -0.6811047983960699,
+    "ci95": 2.074823236523418
+  },
+  {
+    "case": "stationary",
+    "baseline": "PF-Power",
+    "metric": "degree",
+    "difference": 0.6625000000000001,
+    "ci95": 3.6530338616502256
+  },
+  {
+    "case": "stationary",
+    "baseline": "DDQN-Match",
+    "metric": "failure",
+    "difference": 0.008333333333333333,
+    "ci95": 0.0
+  },
+  {
+    "case": "stationary",
+    "baseline": "DDQN-Match",
+    "metric": "goodput",
+    "difference": 4.928390685053369,
+    "ci95": 9.921666819773833
+  },
+  {
+    "case": "stationary",
+    "baseline": "DDQN-Match",
+    "metric": "rf",
+    "difference": 0.036604166666666604,
+    "ci95": 0.4328050988259504
+  },
+  {
+    "case": "stationary",
+    "baseline": "DDQN-Match",
+    "metric": "queue",
+    "difference": -0.9929934310137116,
+    "ci95": 0.7738662898071845
+  },
+  {
+    "case": "stationary",
+    "baseline": "DDQN-Match",
+    "metric": "degree",
+    "difference": 0.3125,
+    "ci95": 11.17087166388692
+  },
+  {
+    "case": "stationary",
+    "baseline": "Oracle",
+    "metric": "failure",
+    "difference": 0.008333333333333333,
+    "ci95": 0.0
+  },
+  {
+    "case": "stationary",
+    "baseline": "Oracle",
+    "metric": "goodput",
+    "difference": -8.743555454203271,
+    "ci95": 17.236572326054876
+  },
+  {
+    "case": "stationary",
+    "baseline": "Oracle",
+    "metric": "rf",
+    "difference": 0.18339583333333329,
+    "ci95": 0.18979893324660974
+  },
+  {
+    "case": "stationary",
+    "baseline": "Oracle",
+    "metric": "queue",
+    "difference": 2.559630117560073,
+    "ci95": 6.480809780894267
+  },
+  {
+    "case": "stationary",
+    "baseline": "Oracle",
+    "metric": "degree",
+    "difference": 0.6625000000000001,
+    "ci95": 3.6530338616502256
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Frozen-GRCS",
+    "metric": "failure",
+    "difference": -0.11249999999999999,
+    "ci95": 0.2647125986703061
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Frozen-GRCS",
+    "metric": "goodput",
+    "difference": -3.9548493369673423,
+    "ci95": 19.808104299036025
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Frozen-GRCS",
+    "metric": "rf",
+    "difference": 0.02725000000000008,
+    "ci95": 0.9159055913992588
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Frozen-GRCS",
+    "metric": "queue",
+    "difference": 0.3407810834975451,
+    "ci95": 1.3902236157427135
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Frozen-GRCS",
+    "metric": "degree",
+    "difference": 0.5875000000000001,
+    "ci95": 6.51192992728953
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Rolling-GRCS",
+    "metric": "failure",
+    "difference": -0.029166666666666674,
+    "ci95": 0.15882755920218364
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Rolling-GRCS",
+    "metric": "goodput",
+    "difference": -2.4935180173423355,
+    "ci95": 21.605711476793783
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Rolling-GRCS",
+    "metric": "rf",
+    "difference": 0.0147708333333334,
+    "ci95": 0.7467542408489335
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Rolling-GRCS",
+    "metric": "queue",
+    "difference": 0.14735452702248164,
+    "ci95": 1.8236629171394663
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Rolling-GRCS",
+    "metric": "degree",
+    "difference": 0.5875000000000001,
+    "ci95": 6.51192992728953
+  },
+  {
+    "case": "abrupt",
+    "baseline": "ACI-d2",
+    "metric": "failure",
+    "difference": 0.041666666666666664,
+    "ci95": 0.5294251973406122
+  },
+  {
+    "case": "abrupt",
+    "baseline": "ACI-d2",
+    "metric": "goodput",
+    "difference": 2.706570446458386,
+    "ci95": 15.050245798533068
+  },
+  {
+    "case": "abrupt",
+    "baseline": "ACI-d2",
+    "metric": "rf",
+    "difference": 0.03170833333333342,
+    "ci95": 0.5871325438507381
+  },
+  {
+    "case": "abrupt",
+    "baseline": "ACI-d2",
+    "metric": "queue",
+    "difference": -0.9265672057939964,
+    "ci95": 4.58497353596715
+  },
+  {
+    "case": "abrupt",
+    "baseline": "ACI-d2",
+    "metric": "degree",
+    "difference": 0.5875000000000001,
+    "ci95": 6.51192992728953
+  },
+  {
+    "case": "abrupt",
+    "baseline": "ACI-Full",
+    "metric": "failure",
+    "difference": 0.008333333333333328,
+    "ci95": 0.4235401578724897
+  },
+  {
+    "case": "abrupt",
+    "baseline": "ACI-Full",
+    "metric": "goodput",
+    "difference": 6.294485451801336,
+    "ci95": 27.85174433276374
+  },
+  {
+    "case": "abrupt",
+    "baseline": "ACI-Full",
+    "metric": "rf",
+    "difference": -0.06320833333333328,
+    "ci95": 0.4918360083294286
+  },
+  {
+    "case": "abrupt",
+    "baseline": "ACI-Full",
+    "metric": "queue",
+    "difference": -1.4761423705427292,
+    "ci95": 6.349006672776061
+  },
+  {
+    "case": "abrupt",
+    "baseline": "ACI-Full",
+    "metric": "degree",
+    "difference": -3.4124999999999996,
+    "ci95": 6.51192992728953
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Nominal",
+    "metric": "failure",
+    "difference": -0.95,
+    "ci95": 0.5294251973406124
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Nominal",
+    "metric": "goodput",
+    "difference": 27.39918348844774,
+    "ci95": 33.352835269422684
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Nominal",
+    "metric": "rf",
+    "difference": -0.09539583333333321,
+    "ci95": 0.29303684672802904
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Nominal",
+    "metric": "queue",
+    "difference": -7.355317052635034,
+    "ci95": 8.754699795333389
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Nominal",
+    "metric": "degree",
+    "difference": 0.5875000000000001,
+    "ci95": 6.51192992728953
+  },
+  {
+    "case": "abrupt",
+    "baseline": "PF-Power",
+    "metric": "failure",
+    "difference": 0.041666666666666664,
+    "ci95": 0.5294251973406122
+  },
+  {
+    "case": "abrupt",
+    "baseline": "PF-Power",
+    "metric": "goodput",
+    "difference": 3.7307135783940737,
+    "ci95": 16.78341481658062
+  },
+  {
+    "case": "abrupt",
+    "baseline": "PF-Power",
+    "metric": "rf",
+    "difference": 0.06577083333333342,
+    "ci95": 0.6641639100637975
+  },
+  {
+    "case": "abrupt",
+    "baseline": "PF-Power",
+    "metric": "queue",
+    "difference": -1.163690801547828,
+    "ci95": 4.636877526171168
+  },
+  {
+    "case": "abrupt",
+    "baseline": "PF-Power",
+    "metric": "degree",
+    "difference": 0.5875000000000001,
+    "ci95": 6.51192992728953
+  },
+  {
+    "case": "abrupt",
+    "baseline": "DDQN-Match",
+    "metric": "failure",
+    "difference": -0.02083333333333334,
+    "ci95": 0.15882755920218358
+  },
+  {
+    "case": "abrupt",
+    "baseline": "DDQN-Match",
+    "metric": "goodput",
+    "difference": -1.2837160570064654,
+    "ci95": 17.214151168296063
+  },
+  {
+    "case": "abrupt",
+    "baseline": "DDQN-Match",
+    "metric": "rf",
+    "difference": 0.01814583333333339,
+    "ci95": 0.27291868922908513
+  },
+  {
+    "case": "abrupt",
+    "baseline": "DDQN-Match",
+    "metric": "queue",
+    "difference": -0.18874523370779017,
+    "ci95": 0.2284013260425651
+  },
+  {
+    "case": "abrupt",
+    "baseline": "DDQN-Match",
+    "metric": "degree",
+    "difference": 0.37083333333333346,
+    "ci95": 0.26471259867030655
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Oracle",
+    "metric": "failure",
+    "difference": 0.049999999999999996,
+    "ci95": 0.5294251973406122
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Oracle",
+    "metric": "goodput",
+    "difference": -13.484322194738105,
+    "ci95": 36.86681266127207
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Oracle",
+    "metric": "rf",
+    "difference": 0.15712500000000004,
+    "ci95": 0.9603773079758703
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Oracle",
+    "metric": "queue",
+    "difference": 3.0900033802261304,
+    "ci95": 7.760641027067592
+  },
+  {
+    "case": "abrupt",
+    "baseline": "Oracle",
+    "metric": "degree",
+    "difference": 0.5875000000000001,
+    "ci95": 6.51192992728953
+  }
+]

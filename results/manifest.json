@@ -1,0 +1,1080 @@
+{
+  "cases": {
+    "stationary": {
+      "config": {
+        "users": 24,
+        "uavs": 6,
+        "rbs": 2,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.05,
+          0.1,
+          0.2,
+          0.5
+        ],
+        "alpha": 0.1,
+        "gamma": 0.02,
+        "window": 256,
+        "arrival": 0.24,
+        "eta": 0.5,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 0.5,
+        "reference_fraction": 0.025,
+        "temporal": 0.85,
+        "error_temporal": 0.7,
+        "scenario": "stationary",
+        "slots": 3000,
+        "train_n": 500,
+        "cal_n": 1000,
+        "speed": 15.0
+      },
+      "methods": [
+        "A-GRCS",
+        "Frozen-GRCS",
+        "Rolling-GRCS",
+        "ACI-d2",
+        "ACI-Full",
+        "Nominal",
+        "PF-Power",
+        "DDQN-Match",
+        "Oracle"
+      ],
+      "path": ""
+    },
+    "abrupt": {
+      "config": {
+        "users": 24,
+        "uavs": 6,
+        "rbs": 2,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.05,
+          0.1,
+          0.2,
+          0.5
+        ],
+        "alpha": 0.1,
+        "gamma": 0.02,
+        "window": 256,
+        "arrival": 0.24,
+        "eta": 0.5,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 0.5,
+        "reference_fraction": 0.025,
+        "temporal": 0.85,
+        "error_temporal": 0.7,
+        "scenario": "abrupt",
+        "slots": 3000,
+        "train_n": 500,
+        "cal_n": 1000,
+        "speed": 15.0
+      },
+      "methods": [
+        "A-GRCS",
+        "Frozen-GRCS",
+        "Rolling-GRCS",
+        "ACI-d2",
+        "ACI-Full",
+        "Nominal",
+        "PF-Power",
+        "DDQN-Match",
+        "Oracle"
+      ],
+      "path": ""
+    },
+    "load_high": {
+      "config": {
+        "users": 24,
+        "uavs": 6,
+        "rbs": 2,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.05,
+          0.1,
+          0.2,
+          0.5
+        ],
+        "alpha": 0.1,
+        "gamma": 0.02,
+        "window": 256,
+        "arrival": 0.36,
+        "eta": 0.5,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 0.5,
+        "reference_fraction": 0.025,
+        "temporal": 0.85,
+        "error_temporal": 0.7,
+        "scenario": "abrupt",
+        "slots": 3000,
+        "train_n": 500,
+        "cal_n": 1000,
+        "speed": 15.0
+      },
+      "methods": [
+        "A-GRCS",
+        "Frozen-GRCS",
+        "Rolling-GRCS",
+        "ACI-d2",
+        "ACI-Full",
+        "Nominal",
+        "PF-Power",
+        "DDQN-Match",
+        "Oracle"
+      ],
+      "path": ""
+    },
+    "gradual": {
+      "config": {
+        "users": 24,
+        "uavs": 6,
+        "rbs": 2,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.05,
+          0.1,
+          0.2,
+          0.5
+        ],
+        "alpha": 0.1,
+        "gamma": 0.02,
+        "window": 256,
+        "arrival": 0.24,
+        "eta": 0.5,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 0.5,
+        "reference_fraction": 0.025,
+        "temporal": 0.85,
+        "error_temporal": 0.7,
+        "scenario": "gradual",
+        "slots": 3000,
+        "train_n": 500,
+        "cal_n": 1000,
+        "speed": 15.0
+      },
+      "methods": [
+        "A-GRCS",
+        "Frozen-GRCS",
+        "Rolling-GRCS",
+        "ACI-d2",
+        "ACI-Full",
+        "Nominal",
+        "PF-Power"
+      ],
+      "path": ""
+    },
+    "recurrent": {
+      "config": {
+        "users": 24,
+        "uavs": 6,
+        "rbs": 2,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.05,
+          0.1,
+          0.2,
+          0.5
+        ],
+        "alpha": 0.1,
+        "gamma": 0.02,
+        "window": 256,
+        "arrival": 0.24,
+        "eta": 0.5,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 0.5,
+        "reference_fraction": 0.025,
+        "temporal": 0.85,
+        "error_temporal": 0.7,
+        "scenario": "recurrent",
+        "slots": 3000,
+        "train_n": 500,
+        "cal_n": 1000,
+        "speed": 15.0
+      },
+      "methods": [
+        "A-GRCS",
+        "Frozen-GRCS",
+        "Rolling-GRCS",
+        "ACI-d2",
+        "ACI-Full",
+        "Nominal",
+        "PF-Power"
+      ],
+      "path": ""
+    },
+    "interference": {
+      "config": {
+        "users": 24,
+        "uavs": 6,
+        "rbs": 2,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.05,
+          0.1,
+          0.2,
+          0.5
+        ],
+        "alpha": 0.1,
+        "gamma": 0.02,
+        "window": 256,
+        "arrival": 0.24,
+        "eta": 0.5,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 0.5,
+        "reference_fraction": 0.025,
+        "temporal": 0.85,
+        "error_temporal": 0.7,
+        "scenario": "interference",
+        "slots": 3000,
+        "train_n": 500,
+        "cal_n": 1000,
+        "speed": 15.0
+      },
+      "methods": [
+        "A-GRCS",
+        "Frozen-GRCS",
+        "Rolling-GRCS",
+        "ACI-d2",
+        "ACI-Full",
+        "Nominal",
+        "PF-Power"
+      ],
+      "path": ""
+    },
+    "users_50": {
+      "config": {
+        "users": 50,
+        "uavs": 6,
+        "rbs": 2,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.05,
+          0.1,
+          0.2,
+          0.5
+        ],
+        "alpha": 0.1,
+        "gamma": 0.02,
+        "window": 256,
+        "arrival": 0.24,
+        "eta": 0.5,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 0.5,
+        "reference_fraction": 0.025,
+        "temporal": 0.85,
+        "error_temporal": 0.7,
+        "scenario": "abrupt",
+        "slots": 3000,
+        "train_n": 500,
+        "cal_n": 1000,
+        "speed": 15.0
+      },
+      "methods": [
+        "A-GRCS",
+        "Frozen-GRCS",
+        "Rolling-GRCS",
+        "ACI-d2",
+        "ACI-Full",
+        "Nominal",
+        "PF-Power"
+      ],
+      "path": ""
+    },
+    "users_100": {
+      "config": {
+        "users": 100,
+        "uavs": 6,
+        "rbs": 2,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.05,
+          0.1,
+          0.2,
+          0.5
+        ],
+        "alpha": 0.1,
+        "gamma": 0.02,
+        "window": 256,
+        "arrival": 0.24,
+        "eta": 0.5,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 0.5,
+        "reference_fraction": 0.025,
+        "temporal": 0.85,
+        "error_temporal": 0.7,
+        "scenario": "abrupt",
+        "slots": 3000,
+        "train_n": 500,
+        "cal_n": 1000,
+        "speed": 15.0
+      },
+      "methods": [
+        "A-GRCS",
+        "Frozen-GRCS",
+        "Rolling-GRCS",
+        "ACI-d2",
+        "ACI-Full",
+        "Nominal",
+        "PF-Power"
+      ],
+      "path": ""
+    },
+    "eta_0.1": {
+      "config": {
+        "users": 24,
+        "uavs": 6,
+        "rbs": 2,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.05,
+          0.1,
+          0.2,
+          0.5
+        ],
+        "alpha": 0.1,
+        "gamma": 0.02,
+        "window": 256,
+        "arrival": 0.24,
+        "eta": 0.1,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 0.5,
+        "reference_fraction": 0.025,
+        "temporal": 0.85,
+        "error_temporal": 0.7,
+        "scenario": "abrupt",
+        "slots": 3000,
+        "train_n": 500,
+        "cal_n": 1000,
+        "speed": 15.0
+      },
+      "methods": [
+        "A-GRCS",
+        "ACI-d2",
+        "ACI-Full"
+      ],
+      "path": ""
+    },
+    "eta_2.0": {
+      "config": {
+        "users": 24,
+        "uavs": 6,
+        "rbs": 2,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.05,
+          0.1,
+          0.2,
+          0.5
+        ],
+        "alpha": 0.1,
+        "gamma": 0.02,
+        "window": 256,
+        "arrival": 0.24,
+        "eta": 2.0,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 0.5,
+        "reference_fraction": 0.025,
+        "temporal": 0.85,
+        "error_temporal": 0.7,
+        "scenario": "abrupt",
+        "slots": 3000,
+        "train_n": 500,
+        "cal_n": 1000,
+        "speed": 15.0
+      },
+      "methods": [
+        "A-GRCS",
+        "ACI-d2",
+        "ACI-Full"
+      ],
+      "path": ""
+    },
+    "eta_10.0": {
+      "config": {
+        "users": 24,
+        "uavs": 6,
+        "rbs": 2,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.05,
+          0.1,
+          0.2,
+          0.5
+        ],
+        "alpha": 0.1,
+        "gamma": 0.02,
+        "window": 256,
+        "arrival": 0.24,
+        "eta": 10.0,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 0.5,
+        "reference_fraction": 0.025,
+        "temporal": 0.85,
+        "error_temporal": 0.7,
+        "scenario": "abrupt",
+        "slots": 3000,
+        "train_n": 500,
+        "cal_n": 1000,
+        "speed": 15.0
+      },
+      "methods": [
+        "A-GRCS",
+        "ACI-d2",
+        "ACI-Full"
+      ],
+      "path": ""
+    },
+    "gamma_0.005": {
+      "config": {
+        "users": 24,
+        "uavs": 6,
+        "rbs": 2,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.05,
+          0.1,
+          0.2,
+          0.5
+        ],
+        "alpha": 0.1,
+        "gamma": 0.005,
+        "window": 256,
+        "arrival": 0.24,
+        "eta": 0.5,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 0.5,
+        "reference_fraction": 0.025,
+        "temporal": 0.85,
+        "error_temporal": 0.7,
+        "scenario": "abrupt",
+        "slots": 3000,
+        "train_n": 500,
+        "cal_n": 1000,
+        "speed": 15.0
+      },
+      "methods": [
+        "A-GRCS",
+        "ACI-d2"
+      ],
+      "path": ""
+    },
+    "gamma_0.05": {
+      "config": {
+        "users": 24,
+        "uavs": 6,
+        "rbs": 2,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.05,
+          0.1,
+          0.2,
+          0.5
+        ],
+        "alpha": 0.1,
+        "gamma": 0.05,
+        "window": 256,
+        "arrival": 0.24,
+        "eta": 0.5,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 0.5,
+        "reference_fraction": 0.025,
+        "temporal": 0.85,
+        "error_temporal": 0.7,
+        "scenario": "abrupt",
+        "slots": 3000,
+        "train_n": 500,
+        "cal_n": 1000,
+        "speed": 15.0
+      },
+      "methods": [
+        "A-GRCS",
+        "ACI-d2"
+      ],
+      "path": ""
+    },
+    "correlation95": {
+      "config": {
+        "users": 24,
+        "uavs": 6,
+        "rbs": 2,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.05,
+          0.1,
+          0.2,
+          0.5
+        ],
+        "alpha": 0.1,
+        "gamma": 0.02,
+        "window": 256,
+        "arrival": 0.24,
+        "eta": 0.5,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 0.5,
+        "reference_fraction": 0.025,
+        "temporal": 0.95,
+        "error_temporal": 0.95,
+        "scenario": "abrupt",
+        "slots": 3000,
+        "train_n": 500,
+        "cal_n": 1000,
+        "speed": 15.0
+      },
+      "methods": [
+        "A-GRCS",
+        "Frozen-GRCS",
+        "Rolling-GRCS",
+        "ACI-d2",
+        "ACI-Full",
+        "Nominal",
+        "PF-Power"
+      ],
+      "path": ""
+    },
+    "budget": {
+      "config": {
+        "users": 24,
+        "uavs": 6,
+        "rbs": 2,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.05,
+          0.1,
+          0.2,
+          0.5
+        ],
+        "alpha": 0.1,
+        "gamma": 0.02,
+        "window": 256,
+        "arrival": 0.24,
+        "eta": 0.5,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 0.5,
+        "reference_fraction": 0.025,
+        "temporal": 0.85,
+        "error_temporal": 0.7,
+        "scenario": "abrupt",
+        "slots": 3000,
+        "train_n": 500,
+        "cal_n": 1000,
+        "speed": 15.0
+      },
+      "methods": [
+        "A-GRCS",
+        "A-GRCS-Budget"
+      ],
+      "path": ""
+    },
+    "unit_scale": {
+      "config": {
+        "users": 24,
+        "uavs": 6,
+        "rbs": 2,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.05,
+          0.1,
+          0.2,
+          0.5
+        ],
+        "alpha": 0.1,
+        "gamma": 0.02,
+        "window": 256,
+        "arrival": 0.24,
+        "eta": 0.5,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 0.5,
+        "reference_fraction": 0.025,
+        "temporal": 0.85,
+        "error_temporal": 0.7,
+        "scenario": "abrupt",
+        "slots": 3000,
+        "train_n": 500,
+        "cal_n": 1000,
+        "speed": 15.0,
+        "scale_mode": "unit"
+      },
+      "methods": [
+        "A-GRCS",
+        "Frozen-GRCS",
+        "ACI-d2"
+      ],
+      "path": ""
+    },
+    "reference2": {
+      "config": {
+        "users": 24,
+        "uavs": 6,
+        "rbs": 2,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.05,
+          0.1,
+          0.2,
+          0.5
+        ],
+        "alpha": 0.1,
+        "gamma": 0.02,
+        "window": 256,
+        "arrival": 0.24,
+        "eta": 0.5,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 2.0,
+        "reference_fraction": 0.025,
+        "temporal": 0.85,
+        "error_temporal": 0.7,
+        "scenario": "abrupt",
+        "slots": 3000,
+        "train_n": 500,
+        "cal_n": 1000,
+        "speed": 15.0,
+        "scale_mode": "learned"
+      },
+      "methods": [
+        "A-GRCS",
+        "Frozen-GRCS",
+        "ACI-d2"
+      ],
+      "path": ""
+    },
+    "no_overhead": {
+      "config": {
+        "users": 24,
+        "uavs": 6,
+        "rbs": 2,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.05,
+          0.1,
+          0.2,
+          0.5
+        ],
+        "alpha": 0.1,
+        "gamma": 0.02,
+        "window": 256,
+        "arrival": 0.24,
+        "eta": 0.5,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 0.5,
+        "reference_fraction": 0.0,
+        "temporal": 0.85,
+        "error_temporal": 0.7,
+        "scenario": "abrupt",
+        "slots": 3000,
+        "train_n": 500,
+        "cal_n": 1000,
+        "speed": 15.0,
+        "scale_mode": "learned"
+      },
+      "methods": [
+        "A-GRCS",
+        "ACI-d2",
+        "ACI-Full"
+      ],
+      "path": ""
+    },
+    "ack_abrupt": {
+      "config": {
+        "users": 24,
+        "uavs": 6,
+        "rbs": 2,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.05,
+          0.1,
+          0.2,
+          0.5
+        ],
+        "alpha": 0.1,
+        "gamma": 0.02,
+        "window": 256,
+        "arrival": 0.24,
+        "eta": 0.5,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 0.5,
+        "reference_fraction": 0.025,
+        "temporal": 0.85,
+        "error_temporal": 0.7,
+        "scenario": "abrupt",
+        "slots": 3000,
+        "train_n": 500,
+        "cal_n": 1000,
+        "speed": 15.0,
+        "scale_mode": "learned"
+      },
+      "methods": [
+        "A-GRCS",
+        "A-GRCS-ACK",
+        "Frozen-GRCS",
+        "DDQN-Match"
+      ],
+      "path": ""
+    },
+    "ack_interference": {
+      "config": {
+        "users": 24,
+        "uavs": 6,
+        "rbs": 2,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.05,
+          0.1,
+          0.2,
+          0.5
+        ],
+        "alpha": 0.1,
+        "gamma": 0.02,
+        "window": 256,
+        "arrival": 0.24,
+        "eta": 0.5,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 0.5,
+        "reference_fraction": 0.025,
+        "temporal": 0.85,
+        "error_temporal": 0.7,
+        "scenario": "interference",
+        "slots": 3000,
+        "train_n": 500,
+        "cal_n": 1000,
+        "speed": 15.0,
+        "scale_mode": "learned"
+      },
+      "methods": [
+        "A-GRCS",
+        "A-GRCS-ACK",
+        "Frozen-GRCS"
+      ],
+      "path": ""
+    },
+    "ack_load": {
+      "config": {
+        "users": 24,
+        "uavs": 6,
+        "rbs": 2,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.05,
+          0.1,
+          0.2,
+          0.5
+        ],
+        "alpha": 0.1,
+        "gamma": 0.02,
+        "window": 256,
+        "arrival": 0.36,
+        "eta": 0.5,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 0.5,
+        "reference_fraction": 0.025,
+        "temporal": 0.85,
+        "error_temporal": 0.7,
+        "scenario": "abrupt",
+        "slots": 3000,
+        "train_n": 500,
+        "cal_n": 1000,
+        "speed": 15.0,
+        "scale_mode": "learned"
+      },
+      "methods": [
+        "A-GRCS",
+        "A-GRCS-ACK",
+        "Frozen-GRCS",
+        "DDQN-Match"
+      ],
+      "path": ""
+    },
+    "frequency4": {
+      "config": {
+        "users": 24,
+        "uavs": 6,
+        "rbs": 4,
+        "degrees": [
+          1,
+          2,
+          4
+        ],
+        "slot": 0.1,
+        "total_bw": 12000000.0,
+        "area": 1500.0,
+        "height": 100.0,
+        "powers": [
+          0.025,
+          0.05,
+          0.1,
+          0.25
+        ],
+        "alpha": 0.1,
+        "gamma": 0.02,
+        "window": 256,
+        "arrival": 0.24,
+        "eta": 0.5,
+        "initial_queue": 2.0,
+        "rf_budget": 0.35,
+        "budget_step": 0.5,
+        "handoff_cost": 0.02,
+        "reference_error": 0.5,
+        "reference_fraction": 0.025,
+        "temporal": 0.85,
+        "error_temporal": 0.7,
+        "scenario": "abrupt",
+        "slots": 3000,
+        "train_n": 500,
+        "cal_n": 1000,
+        "speed": 15.0,
+        "scale_mode": "learned"
+      },
+      "methods": [
+        "A-GRCS",
+        "Frozen-GRCS",
+        "Rolling-GRCS",
+        "ACI-d2",
+        "ACI-Full",
+        "Nominal",
+        "PF-Power"
+      ],
+      "path": ""
+    }
+  },
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ]
+}
